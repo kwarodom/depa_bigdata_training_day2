@@ -1,0 +1,2070 @@
+There are two ways to look things up in Wikipedia: by searching or by browsing.
+
+    If you know the name of an article for which you are looking, simply type it into Wikipedia's search box.
+
+    If you would like to look around the encyclopedia to see what is on it, use Wikipedia's Contents pages. Lists and indices are examples of contents for a published work, and Wikipedia has many of each, including a complete alphabetical index and indices by category.
+    Links to all of Wikipedia's main contents pages are presented below, and they in turn link to the more specific pages.
+
+Curated article collections
+Overview articles
+
+Overview articles summarize in prose a broad topic like biology, and also have illustrations and links to subtopics like cell biology, biographies like Carl Linnaeus, and other related articles like Human Genome Project.
+
+    Portal:Contents/Overviews lists overview articles from covered areas of knowledge in a single page.
+
+Outline pages
+
+Outline pages have trees of article links in an outline format. They show how important subtopics relate to each other, and can be useful as a more condensed, non-prose alternative to overview articles.
+
+    Portal:Contents/Outlines is a comprehensive list of "Outline of __" pages, organized by subject
+    Outline of academic disciplines covers subjects studied in college or university, and links directly to prose overview articles
+
+Third-party classification systems
+
+Various third-party classification systems have been mapped to Wikipedia articles, which can be accessed from these pages:
+
+    List of Dewey Decimal classes
+    Library of Congress Classification
+    Wikipedia:Outline of Roget's Thesaurus
+
+Vital articles
+Main page: Wikipedia:Vital articles
+
+Vital articles are lists of subjects for which Wikipedia should have corresponding high-quality articles. They serve as centralized watchlists to track the status of Wikipedia's most important articles.
+
+    Vital articles level 1 – 10 most important articles
+    Vital articles level 2 – 100 most important articles
+    Vital articles level 3 – 1,000 most important articles
+    Vital articles level 4 – 10,000 most important articles
+
+Reference collections
+
+Wikipedia has several types of pages which provide content in a non-prose form, for reference purposes.
+List pages
+
+List pages enumerate items of a particular type, such as the List of sovereign states or List of South Africans. Wikipedia has "lists of lists" when there are too many items to fit on a single page, when the items can sorted in different ways, or as a way of navigating lists on a topic (for example Lists of countries and territories or Lists of people). There are several ways to find lists:
+
+    Portal:Contents/Lists – A limited single-page collection of lists and lists of lists
+    List of lists of lists – A broad single-page collection of lists of lists
+    Category:Lists – Browse lists comprehensively via the multi-page Wikipedia category system
+
+Timelines
+
+Timelines list events chronologically, sometimes including links to articles with more detail. There are several ways to find timelines:
+
+    List of timelines has a long single-page collection
+    Category:Timelines has a comprehensive multi-page collection via the Wikipedia category system
+
+Of particular interest may be:
+
+    List of centuries
+    List of decades
+    List of historical anniversaries—e.g. events on January 1 of any year
+    2017—major events this year
+    Portal:Current events—featured current events and related project activities
+    Deaths in 2017—lists notable people who died this year
+    Category:Graphical timelines—graphical timelines in the category and subcategories, arranged alphabetically
+
+Glossaries
+
+Glossaries are lists of terms with definitions. Wikipedia includes hundreds of alphabetical glossaries; they can be found two ways:
+
+    Portal:Contents/Glossaries – A single-page list of glossaries
+    Category:Wikipedia glossaries – Browse glossaries comprehensively via the Wikipedia category system
+
+Bibliographies
+
+Bibliographies list sources on a given topic, for verification or further reading outside Wikipedia:
+
+    Category:Wikipedia bibliographies has a complete multi-page listing
+
+Category:Discographies
+
+Discographies catalog the sound recordings of individual artists or groups.
+
+    Category:Discographies has a complete multi-page listing
+
+Special format collections
+Portals
+
+Portals include featured articles, images, news, categories, excerpts of key articles, links to related portals, and to-do lists for editors. There are two ways to find portals:
+
+    Portal:Contents/Portals – A single-page list of portals
+    Category:Portals – Browse portals comprehensively via the Wikipedia category system
+
+Wikipedia books
+
+Wikipedia books are collections of Wikipedia articles that can be viewed, downloaded, or printed into a book. They provide a roadmap for a course of study in a particular subject.
+
+    Category:Wikipedia books (community books)—an alphabetical list of the books
+    Category:Wikipedia books—a list of the books, categorized by topic
+
+Spoken articles
+
+Growing collections of Wikipedia articles are starting to become available as spoken word recordings as well.
+
+    Category:Spoken articles—an organized list of all spoken articles
+    Wikipedia:Spoken articles—some general information about the spoken article technology
+
+Collections of articles
+Category system
+
+Wikipedia's collection of category pages is a classified index system. It is automatically generated from category tags at the bottoms of articles and most other pages. Nearly all of the articles available so far on the website can be found through these subject indexes.
+
+If you are simply looking to browse articles by topic, there are three top-level pages to choose from:
+
+    Category:Main topic classifications—probably what you are looking for: Arts, History, Technology, etc.
+    Portal:Contents/Categories—a hand-crafted list of first- and second-level topic categories
+
+For biographies, see Category:People.
+
+Category:Contents is technically at the top of the category hierarchy, but contains many categories useful to editors but not readers. Special:Categories lists every category alphabetically.
+Alphabetical lists of articles
+
+Wikipedia's alphabetical article indexes
+
+    Special:Allpages lists all of the current pages in Wikipedia.
+    Portal:Contents/A–Z index provides an easy way to skip to a particular part of the alphabet in the list of all articles.
+    Lists of alphabetical indexes
+        Category:Wikipedia indexes—alphabetical list of topic indexes
+        Portal:Contents/Indices—indexes sorted by topic area
+
+Collections of articles by quality or popularity
+Featured content
+
+Featured content is the best Wikipedia has to offer, via vigorous peer review. Presented by type:
+
+    Featured articles · Featured lists · Featured pictures · Featured portals · Featured topics
+
+Most popular articles
+
+    Wikipedia:Top 5000 pages (of the last week)
+	
+Main article: History of Thailand
+
+There is evidence of human habitation in Thailand that has been dated at 40,000 years before the present, with stone artifacts dated to this period at Tham Lod Rockshelter in Mae Hong Son. Similar to other regions in Southeast Asia, Thailand was heavily influenced by the culture and religions of India, starting with the Kingdom of Funan around the 1st century CE to the Khmer Empire.[21] Thailand in its earliest days was under the rule of the Khmer Empire, which had strong Hindu roots, and the influence among Thais remains even today.
+The ruins of Wat Chaiwatthanaram at Ayutthaya
+
+Indian influence on Thai culture was partly the result of direct contact with Indian settlers, but mainly it was brought about indirectly via the Indianized kingdoms of Dvaravati, Srivijaya, and Cambodia.[22] E.A. Voretzsch believes that Buddhism must have been flowing into Siam from India in the time of the Indian Emperor Ashoka of the Maurya Empire and far on into the first millennium after Christ.[22] Later Thailand was influenced by the south Indian Pallava dynasty and north Indian Gupta Empire.[22]
+
+According to George Cœdès, "The Thai first enter history of Farther India in the eleventh century with the mention of Syam slaves or prisoners of war in" Champa epigraphy, and "in the twelfth century, the bas-reliefs of Angkor Wat" where "a group of warriors" are described as Syam. Additionally, "the Mongols, after the seizure of Ta-li on January 7, 1253 and the pacification of Yunnan in 1257, did not look with disfavor on the creation of a series of Thai principalities at the expense of the old Indianized kingdoms." The Menam Basin was originally populated by the Mons, and the location of Dvaravati in the 7th century, followed by the Khmer Empire in the 11th. The History of the Yuan mentions an embassy from the kingdom of Sukhothai in 1282. In 1287, three Thai chiefs, Mangrai, Ngam Muang, and Ram Khamhaeng formed a "strong pact of friendship".[23]
+
+After the fall of the Khmer Empire in the 13th century, various states thrived there, established by the various Tai peoples, Mons, Khmers, Chams and Ethnic Malays, as seen through the numerous archaeological sites and artefacts that are scattered throughout the Siamese landscape. Prior to the 12th century however, the first Thai or Siamese state is traditionally considered to be the Buddhist Sukhothai Kingdom, which was founded in 1238.
+
+Following the decline and fall of the Khmer empire in the 13th–15th century, the Buddhist Tai kingdoms of Sukhothai, Lanna, and Lan Xang (now Laos) were on the rise. However, a century later, the power of Sukhothai was overshadowed by the new Kingdom of Ayutthaya, established in the mid-14th century in the lower Chao Phraya River or Menam area.
+Siamese envoys presenting letter to Pope Innocent XI, 1688
+
+Ayutthaya's expansion centred along the Menam while in the northern valleys the Lanna Kingdom and other small Tai city-states ruled the area. In 1431, the Khmer abandoned Angkor after Ayutthaya forces invaded the city.[24] Thailand retained a tradition of trade with its neighbouring states, from China to India, Persia, and Arab lands. Ayutthaya became one of the most vibrant trading centres in Asia. European traders arrived in the early 16th century, beginning with the envoy of Portuguese duke Afonso de Albuquerque in 1511, followed by the French, Dutch, and English. The Burmese–Siamese War (1765–1767) left Ayutthaya burned and sacked by King Hsinbyushin Konbaung.
+
+After the fall of Ayutthaya in 1767 to the Burmese, Taksin moved the capital to Thonburi for approximately 15 years. The current Rattanakosin era of Thai history began in 1782 following the establishment of Bangkok as capital of the Chakri dynasty under King Rama I the Great. According to the Encyclopædia Britannica, "A quarter to a third of the population of some areas of Thailand and Burma were slaves in the 17th through the 19th centuries."[25][26]
+20th century
+Territorial losses to western powers by year
+
+Despite European pressure, Thailand is the only Southeast Asian nation to never have been colonized.[27] This has been ascribed to the long succession of able rulers in the past four centuries who exploited the rivalry and tension between the French and British Empire. In 1896, Britain and France guaranteed of the Chao Phraya valley as their buffer state (not the whole of Siam),[28] while the remaining parts of Southeast Asia were colonized by the western powers. Western influence nevertheless led to many reforms in the 19th century and major concessions, most notably the loss of a large territory on the east side of the Mekong to the French and the step-by-step absorption by Britain of the Shan and Karen people areas and Malay Peninsula.
+
+As part of the concessions which the Chakri dynasty offered to the British Empire in return for their support, Siam ceded four predominantly ethnic-Malay southern provinces to the British Empire in the Anglo-Siamese Treaty of 1909. These four provinces (Kelantan, Terengganu, Kedah, and Perlis) would later became Malaysia's four northern states.
+
+In 1917, Siam joined the Allies of World War I and is counted as one of the victors of World War I. The bloodless revolution took place in 1932 carried out by the Khana Ratsadon group of military and civilian officials resulted in a transition of power, when King Prajadhipok was forced to grant the people of Siam their first constitution, thereby ending centuries of absolute monarchy.
+
+In 1939, the name of the kingdom, "Siam", was changed to "Thailand".
+World War II
+Main article: Thailand in World War II
+
+During World War II, the Empire of Japan demanded the right to move troops across Thailand to the Malayan frontier. The Japanese invasion on 8 December 1941 occurred in co-ordination with attacks throughout Asia and engaged the Royal Thai Army for six to eight hours before Plaek Phibunsongkhram ordered an armistice. Shortly thereafter, Japan was granted free passage, and on 21 December 1941, Thailand and Japan signed a military alliance with a secret protocol, wherein Tokyo agreed to help Thailand regain territories lost to the British and French.[29]
+
+Subsequently, Thailand declared war on the United States and the United Kingdom on 25 January 1942, and undertook to "assist" Japan in its war against the Allies, while at the same time maintaining an active anti-Japanese Free Thai Movement. Approximately 200,000 Asian labourers (mainly romusha) and 60,000 Allied prisoners of war (POWs) worked on the Burma Railway, which is commonly known as the "Death Railway".[29]
+
+After Japanese surrender on 15 August 1945, Thai cabinet resigned the office on 31 August and formed new pro-American government. United States contended that Thailand is the only nation in the region that has never been colonized by western powers and regarded Thailand as the invaded territory.[30] United States declined Thai declaration of war to them and guaranteed Thai sovereignty over disputes with Great Britain. United States policy to Thailand was represented as model policies to the region which should be ordered following the Atlantic Charter.[30]
+Historical gallery
+
+    Pottery discovered near Ban Chiang in Udon Thani Province, the earliest dating to 2100 BCE
+
+    Phimai, Prasat Phimai is the largest temple in the country from the Khmer Empire.
+
+    The immense 19-metre-high (62-foot) gilded statue of a seated Buddha in Wat Phanan Choeng, the latter from 1324, pre-dates the founding of the city of Ayutthaya
+
+    A 15 metres (49 feet) Buddha image in Sukhothai, Phra Achana, built in the 13th century
+
+    Painting of Ayutthaya C 1665, by Johannes Vingboons, ordered by the Dutch East India Company
+
+    Kosa Pan presents King Narai's letter to Louis XIV at Versailles, 1 September 1686.
+
+    Napoleon III receiving Siamese envoys, 1864
+
+Politics and government
+Main articles: Politics of Thailand, Constitutions of Thailand, Law of Thailand, and Government of Thailand
+
+The politics of Thailand is currently conducted within the framework of a constitutional monarchy, whereby the Prime Minister is the head of government and a hereditary monarch is head of state. The judiciary is supposed to be independent of the executive and the legislative branches, although judicial rulings are suspected of being based on political considerations rather than on existing law.[31]
+Constitutional history
+Bangkok's Democracy Monument: a representation of the 1932 Constitution sits on top of two golden offering bowls above a turret.
+
+Since the political reform of the absolute monarchy in 1932, Thailand has had 19 constitutions and charters.[32][33] Throughout this time, the form of government has ranged from military dictatorship to electoral democracy, but all governments have acknowledged a hereditary monarch as the head of state.[34][35]
+28 June 1932
+
+Prior to 1932, the Kingdom of Siam did not possess a legislature, as all legislative powers were vested in the person of the monarch. This had been the case since the foundation of the Sukhothai Kingdom in the 12th century as the king was seen as a "Dharmaraja" or "king who rules in accordance with Dharma", (the Buddhist law of righteousness). However, on 24 June 1932 a group of civilians and military officers, calling themselves the Khana Ratsadon (or People's Party) carried out a bloodless revolution in which the 150 years of absolute rule of the Chakri Dynasty ended. In its stead the group advocated a constitutional form of monarchy with an elected legislature.
+
+The "Draft Constitution" of 1932 signed by King Prajadhipok created Thailand's first legislature, a People's Assembly with 70 appointed members. The assembly met for the first time on 28 June 1932, in the Ananta Samakhom Throne Hall. The Khana Ratsadon decided that the people were not yet ready for an elected assembly. They later changed their minds. By the time the "permanent" constitution came into force in December of that year, elections were scheduled for 15 November 1933. The new constitution changed the composition of the assembly to 78 directly elected and 78 appointed (by the Khana Ratsadon), together totalling 156 members.
+1932 to 1973
+[icon] 	This section needs expansion. You can help by adding to it. (November 2013)
+See also: History of Thailand (1932–1973) and History of Thailand since 1973
+
+The history of Thailand from 1932 to 1973 was dominated by military dictatorships which were in power for much of the period. The main personalities of the period were the dictator Luang Phibunsongkhram (better known as Phibun), who allied the country with Japan during the Second World War, and the civilian politician Pridi Phanomyong, who founded Thammasat University and was briefly the prime minister after the war.
+
+Japan invaded Thailand on 8 December 1941. For events subsequent to the abdication of the king, including the name change of 1939, up to the coup d'état of 1957, see Plaek Pibulsonggram.
+
+A succession of military dictators followed Pridi's ousting — Phibun again, Sarit Dhanarajata and Thanom Kittikachorn — under whom traditional, authoritarian rule was combined with increasing modernisation and westernisation under the influence of the US. The end of the period was marked by Thanom's resignation, following a massacre of pro-democracy protesters led by Thammasat students. Thanom misread the situation as a coup d'état, and fled, leaving the country leaderless. HM appointed Thammasat University chancellor Sanya Dharmasakti PM by royal command.
+
+Thailand helped the USA and South Vietnam in the Vietnam War between 1965–1971. The USAF based F-4 Phantom fighters at Udon and Ubon Air Base, and stationed B-52s at U-Tapao. Thai forces also saw heavy action in the covert war in Laos that occurred from 1964 to 1972.
+1973 to 1997
+[icon] 	This section needs expansion. You can help by adding to it. (November 2013)
+See also: History of Thailand since 1973
+
+In 1973, there was a popular uprising which resulted in the end of the ruling military dictatorship of anti-communist Thanom Kittikachorn and altered the Thai political system. Notably, it highlighted the growing influence of Thai university students in politics.
+
+The National Student Center of Thailand (NSCT) led by Thirayuth Boonmee had begun a campaign to boycott Japanese goods in 1972. When this succeeded, the NSCT organised an all-night sit-in at Thammasat University and a march from there to Chulalongkorn University, in December 1972, to protest against the government's National Executive Council Decree No. 299. A protest rally was also held at Chiang Mai University. Finally, in June 1973, several university students from Ramkhamhaeng University were expelled for publishing a satire on the ruling government. The NSCT reacted by organising rallies to call for the reinstatement of the students. Subsequently, the government decided to close the universities which caused the rallies to grow in size, reaching 50,000. Eventually, the government relented and reinstated the students, and the rector of the university was forced to resign.
+
+In October 1973, Thirayuth Boonmee and ten other political activists were arrested for distributing leaflets in crowded places in Bangkok and one other person accused of being a member of a group advocating early promulgation of the permanent constitution was arrested. More than 2,000 students from Thammasat University demonstrated at an anti-government rally. Violence broke out and continued on 15 October around the police headquarters, with students demanding that Thanom be removed as head of the armed forces. Only when it was announced that Thanom, Praphas, and Thanom's son, Colonel Narong Kittikachorn, who was married to Praphas' daughter, had fled the country did calm return to Bangkok. The end had come as quickly and unexpectedly as the violence had begun.
+
+The leaders of the junta were forced to step down; they took refuge in the United States or Taiwan. However, the January 1975 elections failed to produce a stable party majority, and fresh elections in April 1976 produced the same result.
+
+By late 1976 moderate middle class opinion had turned away from the activism of the students, who had moved increasingly to the left. The army and the right-wing parties began a propaganda war against student liberalism by accusing student activists of being 'communists' and through formal paramilitary organizations such as the Village Scouts and the Red Gaurs many of those students were killed. Matters came to a head in October when Thanom returned to Thailand to enter a royal monastery, Wat Bovorn.
+
+In 1976, students protesters occupied the Thammasat University campus and held protests over the violent deaths of the workers and staged a mock hanging of the victims, one of whom allegedly bore a resemblance to the Crown Prince. Some newspapers the following day, including the Bangkok Post, published an altered version of a photo of the event, which suggested the protestors had committed lese majeste. Rightist and ultra-conservative icons such as Samak Sundaravej blasted the protestors, instigating violent means to suppress them, culminating in the 6 October 1976 massacre. The army unleashed the paramilitaries and mob violence followed, in which many were killed.
+1997 to 2001
+See also: 1997 Constitution of Thailand
+Ananta Samakhom Throne Hall, the old meeting place of the National Assembly; now only the State Opening is held there
+Parliament House, the meeting place of the two chambers of the National Assembly of Thailand
+
+The 1997 Constitution was the first constitution to be drafted by popularly elected Constitutional Drafting Assembly, and was popularly called the "people's constitution".[36] The 1997 Constitution created a bicameral legislature consisting of a 500-seat House of Representatives (สภาผู้แทนราษฎร, sapha phu thaen ratsadon) and a 200-seat Senate (วุฒิสภา, wutthisapha). For the first time in Thai history, both houses were directly elected.
+
+Many human rights were explicitly acknowledged, and measures were established to increase the stability of elected governments. The House was elected by the first past the post system, where only one candidate with a simple majority could be elected in one constituency. The Senate was elected based on the provincial system, where one province could return more than one senator depending on its population size.
+
+The two houses of the National Assembly have two different terms. In accordance with the constitution the Senate is elected to a six-year term, while the House is elected to a four-year term. Overall the term of the National Assembly is based on that of the House. The National Assembly each year will sit in two sessions: an "ordinary session" and a "legislative session". The first session of the National Assembly must take place within thirty days after the general election of the House of Representatives. The first session must be opened by the king in person by reading a Speech from the Throne; this ceremony is held in the Ananta Samakhom Throne Hall. He may also appoint the crown prince or a representative to carry out this duty. It is also the duty of the king to prorogue sessions through a royal decree when the House term expires. The king also has the prerogative to call extraordinary sessions and prolong sessions upon advice of the House of Representatives.
+
+The National Assembly may host a "joint-sitting" of both Houses under several circumstances. These include: The appointment of a regent, any alteration to the 1924 Palace Law of Succession, the opening of the first session, the announcement of policies by the Cabinet of Thailand, the approval of the declaration of war, the hearing of explanations and approval of a treaty and the amendment of the Constitution.
+
+Members of the House of Representatives served four-year terms, while senators served six-year terms. The 1997 People's Constitution also promoted human rights more than any other constitution. The court system (ศาล, san) included a constitutional court with jurisdiction over the constitutionality of parliamentary acts, royal decrees, and political matters.
+2001 to 2008
+
+The January 2001 general election, the first election under the 1997 Constitution, was called the most open, corruption-free election in Thai history.[37] Thai Rak Thai Party, led by Thaksin Shinawatra won the election. The Thaksin government was the first in Thai history to complete a four-year term. The 2005 election had the highest voter turnout in Thai history,[38][39] and Thai Rak Thai Party won an absolute majority. However, despite efforts to clean up the system, vote buying and electoral violence remained electoral problems in 2005.[40]
+
+The PollWatch Foundation, Thailand's most prominent election watchdog, declared that vote buying in this election, specifically in the north and the northeast, was more serious than in the 2001 election. The organisation also accused the government of violating the election law by abusing state power in presenting new projects in a bid to seek votes.
+2006 coup d'état
+See also: 2006 Thai coup d'état
+
+Without meeting much resistance, a military junta overthrew the interim government of Thaksin Shinawatra on 19 September 2006. The junta abrogated the constitution, dissolved Parliament and the Constitutional Court, detained and later removed several members of the government, declared martial law, and appointed one of the king's Privy Counselors, General Surayud Chulanont, as the Prime Minister. The junta later wrote a highly abbreviated interim constitution and appointed a panel to draft a new permanent constitution. The junta also appointed a 250-member legislature, called by some critics a "chamber of generals" while others claimed that it lacks representatives from the poor majority.[41][42]
+
+In this interim constitution draft, the head of the junta was allowed to remove the prime minister at any time. The legislature was not allowed to hold a vote of confidence against the cabinet and the public was not allowed to file comments on bills.[43] This interim constitution was later surpassed by the permanent constitution on 24 August 2007. Martial law was partially revoked in January 2007. The ban on political activities was lifted in July 2007,[44] following the 30 May dissolution of the Thai Rak Thai party. The new constitution was approved by referendum on 19 August, which led to a return to a democratic general election on 23 December 2007.
+2008–2010 political crisis
+See also: 2008–2010 Thai political crisis
+People's Alliance for Democracy, yellow shirts, rally on Sukhumvit Road in 2008
+United Front for Democracy Against Dictatorship, Red Shirts, protest on Ratchaprasong intersection in 2010
+
+The People's Power Party (Thailand), led by Samak Sundaravej, formed a government with five smaller parties. Following several court rulings against him in a variety of scandals, and surviving a vote of no confidence, and protesters blockading government buildings and airports, in September 2008, Sundaravej was found guilty of conflict of interest by the Constitutional Court of Thailand (due to being a host in a TV cooking program),[45] and thus, ended his term in office.
+
+He was replaced by PPP member Somchai Wongsawat. As of October 2008, Wongsawat was unable to gain access to his offices, which were occupied by protesters from the People's Alliance for Democracy. On 2 December 2008, Thailand's Constitutional Court in a highly controversial ruling found the Peoples Power Party[46] guilty of electoral fraud, which led to the dissolution of the party according to the law. It was later alleged in media reports that at least one member of the judiciary had a telephone conversation with officials working for the Office of the Privy Council and one other. The phone call was taped and has since circulated on the Internet. In it, the callers discuss finding a way to ensure the ruling PPP party would be disbanded. Accusations of judicial interference were levelled in the media but the recorded call was dismissed as a hoax. However, in June 2010, supporters of the eventually disbanded PPP were charged with tapping a judge's phone.
+
+Immediately following what many media described as a "judicial coup", a senior member of the Armed Forces met with factions of the governing coalition to get their members to join the opposition and the Democrat Party was able to form a government, a first for the party since 2001. The leader of the Democrat party, and former leader of the opposition, Abhisit Vejjajiva, was appointed and sworn in as the 27th Prime Minister, together with the new cabinet on 17 December 2008.
+
+In April 2009, protests by the National United Front of Democracy Against Dictatorship (UDD, or "Red Shirts") forced the cancellation of the Fourth East Asia Summit after protesters stormed the Royal Cliff hotel venue in Pattaya, smashing the glass doors of the venue to gain entry, and a blockade prevented the Chinese premier at the time, Wen Jiabao, from attending. The summit was eventually held in Thailand in October 2009.[47][48]
+
+About a year later, a set of new "Red Shirts" protests resulted in 87 deaths (mostly civilian and some military) and 1,378 injured.[49] When the army tried to disperse the protesters on 10 April 2010, it was met with automatic gunfire, grenades, and fire bombs from the opposition faction in the army, known as the "watermelon". This resulted in the army returning fire with rubber bullets and some live ammunition. During the time of the "red shirt" protests against the government, there have been numerous grenade and bomb attacks against government offices and the homes of government officials. Gas grenades were fired at "yellow-shirt" protesters, who were protesting against the "red shirts" and in favor of the government, by unknown gunmen killing one pro-government protester; the government stated that the Red Shirts were firing the weapons at civilians.[50][51][52][53] Red shirts continued to hold a position in the business district of Bangkok and it was shut down for several weeks.[54]
+
+On 3 July 2011, the oppositional Pheu Thai Party, led by Yingluck Shinawatra (the youngest sister of Thaksin Shinawatra), won the general election by a landslide (265 seats in the House of Representatives, out of 500). She had never previously been involved in politics, Pheu Thai campaigning for her with the slogan 'Thaksin thinks, Pheu Thai acts'. Yingluck is the nation's first female prime minister and her role was officially endorsed in a ceremony presided over by King Bhumibol Adulyadej. The Pheu Thai Party is a continuation of Thaksin's Thai Rak Thai party.[55]
+2013–2014 political crisis
+Main article: 2013–14 Thai political crisis
+
+Protests recommenced in late 2013, as a broad alliance of protestors, led by former opposition deputy leader Suthep Thaugsuban, demanded an end to the so-called Thaksin regime. A blanket amnesty for people involved in the 2010 protests, altered at the last minute to include all political crimes – including all convictions against Thaksin – triggered a mass show of discontent, with numbers variously estimated between 98,500 (the police) and 400,000 (an aerial photo survey done by the Bangkok Post), taking to the streets. The Senate was urged to reject the bill to quell the reaction, but the measure failed. A newly named group, the People's Democratic Reform Committee (PDRC) along with allied groups, escalated the pressure, with the opposition Democrat party resigning en masse to create a parliamentary vacuum. Protesters demands variously evolved as the movement's numbers grew, extending a number of deadlines and demands that became increasingly unreasonable or unrealistic, yet attracting a groundswell of support. They called for the establishment of an indirectly elected “people’s council”—in place of Yingluck's government—that will cleanse Thai politics and eradicate the Thaksin regime.[56]
+
+In response to the intensive protests, Yingluck dissolved parliament on 9 December 2013 and proposed a new election for 2 February 2014, a date that was later approved by the election commission.[57] The PDRC insisted that the prime minister stand down within 24 hours, regardless of her actions, with 160,000 protesters in attendance at Government House on 9 December. Yingluck insisted that she would continue her duties until the scheduled election in February 2014, urging the protesters to accept her proposal: "Now that the government has dissolved parliament, I ask that you stop protesting and that all sides work towards elections. I have backed down to the point where I don't know how to back down any further."[58]
+
+In response to the Electoral Commission (EC)'s registration process for party-list candidates—for the scheduled election in February 2014—anti-government protesters marched to the Thai-Japanese sports stadium, the venue of the registration process, on 22 December 2013. Suthep and the PDRC led the protest, of which security forces claimed that approximately 270,000 protesters joined. Yingluck and the Pheu Thai Party reiterated their election plan and anticipate presenting a list of 125 party-list candidates to the EC.[59]
+
+On 7 May 2014, the Constitutional Court ruled that Yingluck would have to step down as the Prime Minister as she was deemed to have abused her power in transferring a high-level government official.[60] On 21 August 2014 she was replaced by army chief General Prayut Chan-o-cha.[61]
+2014 coup d'état
+Main article: 2014 Thai coup d'état
+
+On 20 May 2014 the Thai army declared martial law and began to deploy troops in the capital, denying that it was a coup attempt.[62] On 22 May, the army admitted that it was a coup and that it was taking control of the country and suspending the country's constitution.[63][64] On the same day, the military imposed a curfew between the hours of 22:00–05:00, ordering citizens and visitors to remain indoors during this period.[65][66][67][68][69] On 21 August 2014 the National Assembly of Thailand elected the army chief, General Prayut Chan-o-cha, as prime minister. Martial law was declared formally ended on 1 April 2015.[70] "Uniformed or ex-military men have led Thailand for 55 of the 83 years since absolute monarchy was overthrown in 1932,..." observed one journalist in 2015.[71]
+2014 to present
+
+The ruling junta led by Prayuth Chan-o-cha promised to hold new elections, but wants to enact a new constitution before the elections are held. An initial draft constitution was rejected by government officials in 2015. A national referendum, the first since the 2014 coup, on a newly drafted constitution was held on 7 August 2016.[72] There was a 55% turnout of which around 61% voted in favour of the constitution.[73] Under the new constitution an unelected person other than a member of parliament can be appointed as Prime Minister, which would open the post to a military official.[74] The new constitution also gives the National Council for Peace and Order the authority to make all the appointments to the 250-member senate in the next government.[75] The constitutional court will also have final authority in times of crisis, a power previously held by the king. King Maha Vajiralongkorn refused to put the new constitution into effect until amendments were made to the provisions concerning the authority of the constitutional court, appointment of a regent when abroad, and the need for a countersignature on all royal acts.[76]
+Administrative divisions
+Main articles: Organization of the government of Thailand and Provinces of Thailand
+
+Thailand is divided into 76 provinces (จังหวัด, changwat), which are gathered into five groups of provinces by location. There are also two specially-governed districts: the capital Bangkok (Krung Thep Maha Nakhon) and Pattaya. Bangkok is at provincial level and thus often counted as a province.
+
+Each province is divided into districts and the districts are further divided into sub-districts (tambons). As of 2006 there were 877 districts (อำเภอ, amphoe) and the 50 districts of Bangkok (เขต, khet). Some parts of the provinces bordering Bangkok are also referred to as Greater Bangkok (ปริมณฑล, pari monthon). These provinces include Nonthaburi, Pathum Thani, Samut Prakan, Nakhon Pathom and Samut Sakhon. The name of each province's capital city (เมือง, mueang) is the same as that of the province. For example, the capital of Chiang Mai Province (Changwat Chiang Mai) is Mueang Chiang Mai or Chiang Mai.
+A clickable map of Thailand exhibiting its provinces.
+A clickable map of Thailand exhibiting its provinces.
+About this image
+Regions
+Main article: Regions of Thailand
+
+Thai provinces are administrated by different sets of regions, the regions that Thailand usually uses is four-region division system, It divides the country into the four regions: Northern Thailand, Northeastern Thailand, Central Thailand and Southern Thailand.
+
+In Each regions has it own different Historical Background, Culture, Language and People.
+
+Thai local people in the four regions ideally admire the administration of the regions based on Administrative divisions in Germany and British Devolved administrations such as Scotland, Wales and Northern Ireland.
+
+In contrast to the administrative divisions of the Provinces of Thailand, Thailand is Unitary state, the provincial Governors, district chiefs, and district clerks are appointed by the central government. the regions no longer have an administrative character, but are used for geographical, statistical, geological, meteorological or touristic purposes.
+Thailand four-region division.
+Southern region
+See also: South Thailand insurgency
+Southern provinces of Thailand showing the Malay-Muslim majority areas
+
+Thailand controlled the Malay Peninsula as far south as Malacca in the 15th century and held much of the peninsula, including Temasek (Singapore), some of the Andaman Islands, and a colony on Java, but eventually contracted when the British used force to guarantee their suzerainty over the sultanate.
+
+Mostly the northern states of the Malay Sultanate presented annual gifts to the Thai king in the form of a golden flower—a gesture of tribute and an acknowledgement of vassalage. The British intervened in the Malay State and with the Anglo-Siamese Treaty tried to build a railway from the south to Bangkok. Thailand relinquished sovereignty over what are now the northern Malay provinces of Kedah, Perlis, Kelantan, and Terengganu to the British. Satun and Pattani Provinces were given to Thailand.
+
+The Malay peninsular provinces were occupied by the Japanese during World War II, and infiltrated by the Malayan Communist Party (CPM) from 1942 to 2008, when they sued for peace with the Malaysian and Thai governments after the CPM lost its support from Vietnam and China subsequent to the Cultural Revolution. Recent insurgent uprisings may be a continuation of separatist fighting which started after World War II with Sukarno's support for the PULO. Most victims since the uprisings have been Buddhist and Muslim bystanders.
+Foreign relations
+Main article: Foreign relations of Thailand
+Royal Thai Embassy in Washington, D.C.
+Royal Thai Embassy in Wellington, New Zealand
+
+The foreign relations of Thailand are handled by the Minister of Foreign Affairs.
+
+Thailand participates fully in international and regional organisations. It is a major non-NATO ally and Priority Watch List Special 301 Report of the United States. The country remains an active member of ASEAN Association of Southeast Asian Nations. Thailand has developed increasingly close ties with other ASEAN members: Indonesia, Malaysia, the Philippines, Singapore, Brunei, Laos, Cambodia, Myanmar, and Vietnam, whose foreign and economic ministers hold annual meetings. Regional co-operation is progressing in economic, trade, banking, political, and cultural matters. In 2003, Thailand served as APEC (Asia Pacific Economic Cooperation) host. Dr. Supachai Panitchpakdi, the former Deputy Prime Minister of Thailand, currently serves as Secretary-General of the United Nations Conference on Trade and Development (UNCTAD). In 2005 Thailand attended the inaugural East Asia Summit.
+
+In recent years, Thailand has taken an increasingly active role on the international stage. When East Timor gained independence from Indonesia, Thailand, for the first time in its history, contributed troops to the international peacekeeping effort. Its troops remain there today as part of a UN peacekeeping force. As part of its effort to increase international ties, Thailand has reached out to such regional organisations as the Organization of American States (OAS) and the Organisation for Security and Cooperation in Europe (OSCE). Thailand has contributed troops to reconstruction efforts in Afghanistan and Iraq.
+
+Thaksin initiated negotiations for several free trade agreements with China, Australia, Bahrain, India, and the US. The latter especially was criticised, with claims that uncompetitive Thai industries could be wiped out.[77]
+
+Thaksin also announced that Thailand would forsake foreign aid, and work with donor countries to assist in the development of neighbours in the Greater Mekong Sub-region.[78] Thaksin sought to position Thailand as a regional leader, initiating various development projects in poorer neighbouring countries like Laos. More controversially, he established close, friendly ties with the Burmese dictatorship.[79]
+
+Thailand joined the US-led invasion of Iraq, sending a 423-strong humanitarian contingent.[80] It withdrew its troops on 10 September 2004. Two Thai soldiers died in Iraq in an insurgent attack.
+
+Abhisit appointed Peoples Alliance for Democracy leader Kasit Piromya as foreign minister. In April 2009, fighting broke out between Thai and Cambodian troops on territory immediately adjacent to the 900-year-old ruins of Cambodia's Preah Vihear Hindu temple near the border. The Cambodian government claimed its army had killed at least four Thais and captured 10 more, although the Thai government denied that any Thai soldiers were killed or injured. Two Cambodian and three Thai soldiers were killed. Both armies blamed the other for firing first and denied entering the other's territory.[81][82]
+Armed forces
+Main article: Royal Thai Armed Forces
+Royal Thai Army firing M198 howitzer during training in Lopburi, Thailand June 2016
+The HTMS Chakri Naruebet, an aircraft carrier of the Royal Thai Navy
+A Royal Thai Air Force F-16 Fighting Falcon
+
+The Royal Thai Armed Forces (Thai: กองทัพไทย, Kong Thap Thai) constitute the military of the Kingdom of Thailand. It consists of the Royal Thai Army (กองทัพบกไทย), the Royal Thai Navy (กองทัพเรือไทย), and the Royal Thai Air Force (กองทัพอากาศไทย). It also incorporates various paramilitary forces.
+
+The Thai Armed Forces have a combined manpower of 306,000 active duty personnel and another 245,000 active reserve personnel.[83] The head of the Thai Armed Forces (จอมทัพไทย, Chom Thap Thai) is the king,[84] although this position is only nominal. The armed forces are managed by the Ministry of Defence of Thailand, which is headed by the Minister of Defence (a member of the cabinet of Thailand) and commanded by the Royal Thai Armed Forces Headquarters, which in turn is headed by the Chief of Defence Forces of Thailand.[85] In 2011, Thailand's known military expenditure totalled approximately US$5.1 billion.[86]
+
+According to the constitution, serving in the armed forces is a duty of all Thai citizens.[87] However, only males over the age of 21, who have not gone through reserve training of the Army Reserve Force Students, are given the option of volunteering for the armed forces, or participating in the random draft. The candidates are subjected to varying lengths of training, from six months to two years of full-time service, depending on their education, whether they have partially completed the reserve training course, and whether they volunteered prior to the draft date (usually 1 April every year).
+
+Candidates with a recognised bachelor's degree serve one year of full-time service if they are conscripted, or six months if they volunteer at their district office (สัสดี, satsadi). Likewise, the training length is also reduced for those who have partially completed the three-year reserve training course (ร.ด., ro do). A person who completed one year out of three will only have to serve full-time for one year. Those who completed two years of reserve training will only have to do six months of full-time training, while those who complete three years or more of reserve training will be exempted entirely.
+
+Royal Thai Armed Forces Day is celebrated on 18 January, commemorating the victory of Naresuan of the Ayutthaya Kingdom in battle against the crown prince of the Taungoo Dynasty in 1593.[citation needed]
+Geography
+Main article: Geography of Thailand
+View of the Luang Prabang Range, which straddles the Thai-Lao border, in Nan Province, Northern Thailand
+A typical limestone island in Thailand
+Phi Phi Islands
+
+Totalling 513,120 square kilometres (198,120 sq mi),[1] Thailand is the world's 50th-largest country by total area. It is slightly smaller than Yemen and slightly larger than Spain.
+
+Thailand comprises several distinct geographic regions, partly corresponding to the provincial groups. The north of the country is the mountainous area of the Thai highlands, with the highest point being Doi Inthanon in the Thanon Thong Chai Range at 2,565 metres (8,415 ft) above sea level. The northeast, Isan, consists of the Khorat Plateau, bordered to the east by the Mekong River. The centre of the country is dominated by the predominantly flat Chao Phraya river valley, which runs into the Gulf of Thailand.
+
+Southern Thailand consists of the narrow Kra Isthmus that widens into the Malay Peninsula. Politically, there are six geographical regions which differ from the others in population, basic resources, natural features, and level of social and economic development. The diversity of the regions is the most pronounced attribute of Thailand's physical setting.
+
+The Chao Phraya and the Mekong River are the indispensable water courses of rural Thailand. Industrial scale production of crops use both rivers and their tributaries. The Gulf of Thailand covers 320,000 square kilometres (124,000 sq mi) and is fed by the Chao Phraya, Mae Klong, Bang Pakong, and Tapi Rivers. It contributes to the tourism sector owing to its clear shallow waters along the coasts in the southern region and the Kra Isthmus. The eastern shore of the Gulf of Thailand is an industrial centre of Thailand with the kingdom's premier deepwater port in Sattahip and its busiest commercial port, Laem Chabang.
+
+The Andaman Sea is a precious natural resource as it hosts the most popular and luxurious resorts in Asia. Phuket, Krabi, Ranong, Phang Nga and Trang, and their islands, all lay along the coasts of the Andaman Sea and, despite the 2004 tsunami, they are a tourist magnet for visitors from around the world.
+
+Plans have resurfaced for a canal which would connect the Andaman Sea to the Gulf of Thailand, analogous to the Suez and the Panama Canals. The idea has been greeted positively by Thai politicians as it would cut fees charged by the Ports of Singapore, improve ties with China and India, lower shipping times, and eliminate pirate attacks in the Strait of Malacca, and support the Thai government's policy of being the logistical hub for Southeast Asia. The canal, it is claimed, would improve economic conditions in the south of Thailand, which relies heavily on tourism income, and it would also change the structure of the Thai economy by making it an Asia logistical hub. The canal would be a major engineering project and has an expected cost of US$20–30 billion.
+Climate
+Thailand map of Köppen climate classification
+Satellite image of flooding in Thailand, Oct 2011
+
+Thailand's climate is influenced by monsoon winds that have a seasonal character (the southwest and northeast monsoon).[88]:2 The southwest monsoon, which starts from May until October is characterized by movement of warm, moist air from the Indian Ocean to Thailand, causing abundant rain over most of the country.[88]:2 The northeast monsoon, starting from October until February brings cold and dry air from China over most of Thailand.[88]:2 In southern Thailand, the northeast monsoon brings mild weather and abundant rainfall on the eastern coast of that region.[88]:2 Most of Thailand has a "tropical wet and dry or savanna climate" type (Köppen's Tropical savanna climate).[89] The south and the eastern tip of the east have a tropical monsoon climate.
+
+Thailand is divided into three seasons.[88]:2 The first is the rainy or southwest monsoon season (mid–May to mid–October) which prevails over most of the country.[88]:2 This season is characterized by abundant rain with August and September being the wettest period of the year.[88]:2 This can occasionally lead to floods.[88]:4 In addition to rainfall caused by the southwest monsoon, the Intertropical Convergence Zone (ITCZ) and tropical cyclones also contribute to producing heavy rainfall during the rainy season.[88]:2 Nonetheless, dry spells commonly occur for 1 to 2 weeks from June to early July.[88]:4 This is due to the northward movement of the Intertropical Convergence Zone to southern China.[88]:4 Winter or the northeast monsoon starts from mid–October until mid–February.[88]:2 Most of Thailand experiences dry weather during this season with mild temperatures.[88]:2:4 The exception is the southern parts of Thailand where it receives abundant rainfall, particularly during October to November.[88]:2 Summer or the pre–monsoon season runs from mid–February until mid–May and is characterized by warmer weather.[88]:3
+
+Due to its inland nature and latitude, the north, northeast, central and eastern parts of Thailand experience a long period of warm weather.[88]:3 During the hottest time of the year (March to May), temperatures usually reach up to 40 °C (104 °F) or more with the exception of coastal areas where sea breezes moderate afternoon temperatures.[88]:3 In contrast, outbreaks of cold air from China can bring colder temperatures; in some cases (particularly the north and northeast) close to or below 0 °C (32 °F).[88]:3 Southern Thailand is characterized by mild weather year-round with less diurnal and seasonal variations in temperatures due to maritime influences.[88]:3
+
+Most of the country receives a mean annual rainfall of 1,200 to 1,600 mm (47 to 63 in).[88]:4 However, certain areas on the windward sides of mountains such as Ranong province in the west coast of southern Thailand and eastern parts of Trat Province receive more than 4,500 mm (180 in) of rainfall per year.[88]:4 The driest areas are on the leeward side in the central valleys and northernmost portion of south Thailand where mean annual rainfall is less than 1,200 mm (47 in).[88]:4 Most of Thailand (north, northeast, central and east) is characterized by dry weather during the northeast monsoon and abundant rainfall during the southwest monsoon.[88]:4 In the southern parts of Thailand, abundant rainfall occurs in both the northeast and southwest monsoon seasons with a peak in September for the western coast and a peak in November–January on the eastern coast.[88]:4
+Environment
+
+Thailand has a mediocre but improving performance in the global Environmental Performance Index (EPI) with an overall ranking of 91 out of 180 countries in 2016. This is also a mediocre rank in the Asia Pacific region specifically, but ahead of countries like Indonesia and China. The EPI was established in 2001 by the World Economic Forum as a global gauge to measure how well individual countries perform in implementing the United Nations' Sustainable Development Goals. The environmental areas where Thailand performs worst (i.e. highest ranking) are air quality (167), environmental effects of the agricultural industry (106) and the climate and energy sector (93), the later mainly because of a high CO2 emission per KWh produced. Thailand performs best (i.e. lowest ranking) in water resource management (66), with some major improvements expected for the future too, and sanitation (68).[90][91]
+Wildlife
+Main article: List of species native to Thailand
+The population of Asian elephants in Thailand's wild has dropped to an estimated 2,000–3,000.[92]
+
+The elephant is Thailand's national symbol. Although there were 100,000 domesticated elephants in Thailand in 1850, the population of elephants has dropped to an estimated 2,000.[92] Poachers have long hunted elephants for ivory, meat[citation needed], and hides. Young elephants are often captured for use in tourist attractions or as work animals, although their use has declined since the government banned logging in 1989. There are now more elephants in captivity than in the wild, and environmental activists claim that elephants in captivity are often mistreated.[93]
+
+Poaching of protected species remains a major problem. Hunters have decimated the populations of tigers, leopards, and other large cats for their valuable pelts. Many animals (including tigers, bears, crocodiles, and king cobras) are farmed or hunted for their meat, which is considered a delicacy, and for their supposed medicinal properties. Although such trade is illegal, the famous Bangkok market Chatuchak is still known for the sale of endangered species.[94]
+
+The practice of keeping wild animals as pets threatens several species. Baby animals are typically captured and sold, which often requires killing the mother. Once in captivity and out of their natural habitat, many pets die or fail to reproduce. Affected populations include the Asiatic black bear, Malayan sun bear, white-handed lar, pileated gibbon and binturong.[95]
+Education
+Main article: Education in Thailand
+Primary school students in Thailand
+
+In 2014 the literacy rate was 93.5%.[96] Education is provided by a well-organized school system of kindergartens, primary, lower secondary and upper secondary schools, numerous vocational colleges, and universities. The private sector of education is well developed and significantly contributes to the overall provision of education which the government would not be able to meet with public establishments. Education is compulsory up to and including age 14, with the government providing free education through to age 17.[citation needed]
+Chulalongkorn University, established in 1917, is the oldest university in Thailand.
+
+Teaching relies heavily on rote learning rather than on student-centred methodology. The establishment of reliable and coherent curricula for its primary and secondary schools is subject to such rapid changes that schools and their teachers are not always sure what they are supposed to be teaching, and authors and publishers of textbooks are unable to write and print new editions quickly enough to keep up with the volatility. Issues concerning university entrance has been in constant upheaval for a number of years. Nevertheless, Thai education has seen its greatest progress in the years since 2001. Most of the present generation of students are computer literate. Thailand was ranked 54th out of 56 countries globally for English proficiency, the second-lowest in Asia.[97]
+
+Students in ethnic minority areas score consistently lower in standardised national and international tests.[98] [99] [100] This is likely due to unequal allocation of educational resources, weak teacher training, poverty, and low Thai language skill, the language of the tests.[98] [101] [102]
+
+Extensive nationwide IQ tests were administered to 72,780 Thai students from December 2010 to January 2011. The average IQ was found to be 98.59, which is higher than previous studies have found. IQ levels were found to be inconsistent throughout the country, with the lowest average of 88.07 found in the southern region of Narathiwat Province and the highest average of 108.91 reported in Nonthaburi Province. The Ministry of Public Health blames the discrepancies on iodine deficiency and steps are being taken to require that iodine be added to table salt, a practice common in many Western countries.[103]
+
+In 2013, the Ministry of Information and Communication Technology announced that 27,231 schools would receive classroom-level access to high-speed internet.[dead link][104]
+Science and technology
+Main article: List of Thai inventions and discoveries
+
+The National Science and Technology Development Agency is an agency of the government of Thailand which supports research in science and technology and its application in the Thai economy.[citation needed]
+
+The Synchrotron Light Research Institute (SLRI) is a Thai synchrotron light source for physics, chemistry, material science, and life sciences. It is at the Suranaree University of Technology (SUT), in Nakhon Ratchasima, about 300 kilometres (190 miles) northeast of Bangkok. The institute, financed by the Ministry of Science and Technology (MOST), houses the only large scale synchrotron in Southeast Asia. It was originally built as the SORTEC synchrotron in Japan and later moved to Thailand and modified for 1.2 GeV operation. It provides users with regularly scheduled light.[citation needed]
+Internet
+
+In Bangkok, there are 23,000 free public Wi-Fi Internet hotspots.[105] The Internet in Thailand includes 10Gbit/s high speed fibre-optic lines that can be leased and ISPs such as KIRZ that provide residential Internet services.[citation needed]
+
+The Internet is censored by the Thai government, making some sites unreachable.[106] The organisations responsible are the Royal Thai Police, the Communications Authority of Thailand, and the Ministry of Information and Communication Technology (MICT).[citation needed]
+Economy
+Main article: Economy of Thailand
+
+Thailand is an emerging economy and is considered a newly industrialised country. Thailand had a 2013 GDP of US$673 billion (on a purchasing power parity [PPP] basis).[107] Thailand is the 2nd largest economy in Southeast Asia after Indonesia. Thailand ranks midway in the wealth spread in Southeast Asia as it is the 4th richest nation according to GDP per capita, after Singapore, Brunei, and Malaysia.
+
+Thailand functions as an anchor economy for the neighbouring developing economies of Laos, Myanmar, and Cambodia. In the third quarter of 2014, the unemployment rate in Thailand stood at 0.84% according to Thailand's National Economic and Social Development Board (NESDB).[108]
+Recent economic history
+The BTS Skytrain passes through Sathon, the business district of Bangkok, the capital of Thailand and the country's largest commercial and financial centre.
+The MahaNakhon skyscraper in Bangkok
+
+Thailand experienced the world's highest economic growth rate from 1985 to 1996 – averaging 12.4% annually. In 1997 increased pressure on the baht, a year in which the economy contracted by 1.9%, led to a crisis that uncovered financial sector weaknesses and forced the Chavalit Yongchaiyudh administration to float the currency. Prime Minister Chavalit Yongchaiyudh was forced to resign after his cabinet came under fire for its slow response to the economic crisis. The baht was pegged at 25 to the US dollar from 1978 to 1997. The baht reached its lowest point of 56 to the US dollar in January 1998 and the economy contracted by 10.8% that year, triggering the Asian financial crisis.
+
+Thailand's economy started to recover in 1999, expanding 4.2–4.4% in 2000, thanks largely to strong exports. Growth (2.2%) was dampened by the softening of the global economy in 2001, but picked up in the subsequent years owing to strong growth in Asia, a relatively weak baht encouraging exports, and increased domestic spending as a result of several mega projects and incentives of Prime Minister Thaksin Shinawatra, known as Thaksinomics. Growth in 2002, 2003, and 2004 was 5–7% annually.
+
+Growth in 2005, 2006, and 2007 hovered around 4–5%. Due both to the weakening of the US dollar and an increasingly strong Thai currency, by March 2008 the dollar was hovering around the 33 baht mark. While Thaksinomics has received criticism, official economic data reveals that between 2001 and 2011, Isan's GDP per capita more than doubled to US$1,475, while, over the same period, GDP in the Bangkok area increased from US$7,900 to nearly US$13,000.[109]
+
+With the instability surrounding major 2010 protests, the GDP growth of Thailand settled at around 4–5%, from highs of 5–7% under the previous civilian administration. Political uncertainty was identified as the primary cause of a decline in investor and consumer confidence. The IMF predicted that the Thai economy would rebound strongly from the low 0.1% GDP growth in 2011, to 5.5% in 2012 and then 7.5% in 2013, due to the monetary policy of the Bank of Thailand, as well as a package of fiscal stimulus measures introduced by the former Yingluck Shinawatra government.[110]
+
+Following the Thai military coup of 22 May 2014, the AFP global news agency published an article that claimed that the nation was on the verge of recession. The article focused on the departure of nearly 180,000 Cambodians from Thailand due to fears of an immigration clampdown, but concluded with information on the Thai economy's contraction of 2.1% quarter-on-quarter, from January to the end of March 2014.[111]
+Exports and manufacturing
+Automotive production in Thailand, 2004–2013
+A proportional representation of Thailand's exports
+
+The economy of Thailand is heavily export-dependent, with exports accounting for more than two-thirds of gross domestic product (GDP). Thailand exports over US$105 billion worth of goods and services annually.[1] Major exports include rice, textiles and footwear, fishery products, rubber, jewellery, cars, computers, and electrical appliances.[1]
+
+Substantial industries include electric appliances, components, computer components, and vehicles. Thailand's recovery from the 1997–1998 Asian financial crisis depended mainly on exports, among various other factors. As of 2012, the Thai automotive industry was the largest in Southeast Asia and the 9th largest in the world.[112][113][114] The Thailand industry has an annual output of near 1.5 million vehicles, mostly commercial vehicles.[114]
+
+Most of the vehicles built in Thailand are developed and licensed by foreign producers, mainly Japanese and South Korean. The Thai car industry takes advantage of the ASEAN Free Trade Area (AFTA) to find a market for many of its products. Eight manufacturers, five Japanese, two US, and Tata of India, produce pick-up trucks in Thailand.[115] Thailand is the second largest consumer of pick-up trucks in the world, after the US.[citation needed] In 2014, pick-ups accounted for 42% of all new vehicle sales in Thailand.[115]
+Tourism
+Further information: Tourism in Thailand
+Wat Phra Kaew in Bangkok
+Statue of a mythical Kinnon, Wat Phra Kaew, Bangkok
+An Airbus A380 of the national carrier Thai Airways
+
+Tourism makes up about 6% of the economy. Thailand was the most visited country in Southeast Asia in 2013, according to the World Tourism Organisation. Estimates of tourism receipts directly contributing to the Thai GDP of 12 trillion baht range from 9 percent (1 trillion baht) (2013) to 16 percent.[116] When including the indirect effects of tourism, it is said to account for 20.2 percent (2.4 trillion baht) of Thailand's GDP.[117]:1
+
+The Tourism Authority of Thailand (TAT) uses the slogan "Amazing Thailand" to promote Thailand internationally. In 2015, this was supplemented by a "Discover Thainess" campaign.[118]
+
+Asian tourists primarily visit Thailand for Bangkok and the historical, natural, and cultural sights in its vicinity. Western tourists not only visit Bangkok and surroundings, but in addition many travel to the southern beaches and islands. The north is the chief destination for trekking and adventure travel with its diverse ethnic minority groups and forested mountains. The region hosting the fewest tourists is Isan in the northeast. To accommodate foreign visitors, the Thai government established a separate tourism police with offices in the major tourist areas and its own central emergency telephone number.[119]
+"Amazing Thailand" – Thailand Tourism booth at a Travel and Tour Expo
+
+Thailand's attractions include diving, sandy beaches, hundreds of tropical islands, nightlife, archaeological sites, museums, hill tribes, flora and bird life, palaces, Buddhist temples and several World Heritage sites. Many tourists follow courses during their stay in Thailand. Popular are classes in Thai cooking, Buddhism and traditional Thai massage. Thai national festivals range from Thai New Year Songkran to Loy Krathong. Many localities in Thailand also have their own festivals. Among the best-known are the "Elephant Round-up" in Surin, the "Rocket Festival" in Yasothon and the "Phi Ta Khon" festival in Dan Sai. Thai cuisine has become famous worldwide with its enthusiastic use of fresh herbs and spices.
+
+Bangkok shopping malls offer a variety of international and local brands. Towards the north of the city, and easily reached by skytrain or underground, is the Chatuchak Weekend Market. It is possibly the largest market in the world, selling everything from household items to live, and sometimes endangered, animals.[120] The "Pratunam Market" specialises in fabrics and clothing. The night markets in the Silom area and on Khaosan Road are mainly tourist-oriented, selling items such as T-shirts, handicrafts, counterfeit watches and sunglasses. In the vicinity of Bangkok one can find several floating markets such as the one in Damnoen Saduak. The "Sunday Evening Walking Street Market", held on Rachadamnoen Road inside the old city, is a shopping highlight of a visit to Chiang Mai up in northern Thailand. It attracts many locals as well as foreigners. The "Night Bazaar" is Chiang Mai's more tourist-oriented market, sprawling over several city blocks just east of the old city walls towards the river.
+
+Prostitution in Thailand and sex tourism also form a de facto part of the economy. Campaigns promote Thailand as exotic to attract tourists.[121] Cultural milieu combined with poverty and the lure of money have caused prostitution and sex tourism in particular to flourish in Thailand. One estimate published in 2003 placed the trade at US$4.3 billion per year or about 3% of the Thai economy.[122] According to research by Chulalongkorn University on the Thai illegal economy, prostitution in Thailand in the period between 1993 and 1995, made up around 2.7% of the GDP.[123] It is believed that at least 10% of tourist dollars are spent on the sex trade.[124]
+
+Thailand is at the forefront of the growing practice of sex-reassignment surgery (SRS). Statistic taken from 2014, illustrated the country's medical tourism industry attracting over 2.5 million visitors per year.[125] In 1985–1990, only 5% of foreign transsexual patients visited Thailand for sex-reassignment surgery. In more recent years, 2010–2012, more than 90% of the visitors traveled to Thailand for SRS.[126]
+Agriculture
+Further information: Agriculture in Thailand
+Thailand had long been the largest rice exporter in the world. Forty-nine percent of Thailand's labour force is employed in agriculture.[127]
+
+Forty-nine per cent of Thailand's labour force is employed in agriculture.[127] This is down from 70% in 1980.[127] Rice is the most important crop in the country and Thailand had long been the world's leading exporter of rice, until recently falling behind both India and Vietnam.[128] Thailand has the highest percentage of arable land, 27.25%, of any nation in the Greater Mekong Subregion.[129] About 55% of the arable land area is used for rice production.[130]
+
+Agriculture has been experiencing a transition from labour-intensive and transitional methods to a more industrialised and competitive sector.[127] Between 1962 and 1983, the agricultural sector grew by 4.1% per year on average and continued to grow at 2.2% between 1983 and 2007.[127] The relative contribution of agriculture to GDP has declined while exports of goods and services have increased.
+Energy
+Further information: Energy in Thailand
+
+75% of Thailand's electrical generation is powered by natural gas in 2014.[131] Coal-fired power plants produce an additional 20% of electricity, with the remainder coming from biomass, hydro, and biogas.[131]
+
+Thailand produces roughly one-third of the oil it consumes. It is the second largest importer of oil in SE Asia. Thailand is a large producer of natural gas, with reserves of at least 10 trillion cubic feet. After Indonesia, it is the largest coal producer in SE Asia, but must import additional coal to meet domestic demand.
+Transportation
+Main articles: Transport in Thailand and List of airports in Thailand
+Demographics
+Main article: Demographics of Thailand
+
+Thailand had a population of 66,720,153[132] as of 2013. Thailand's population is largely rural, concentrated in the rice-growing areas of the central, northeastern, and northern regions. Thailand had an urban population of 45.7% as of 2010, concentrated mostly in and around the Bangkok Metropolitan Area.
+
+Thailand's government-sponsored family planning program resulted in a dramatic decline in population growth from 3.1% in 1960 to around 0.4% today. In 1970, an average of 5.7 people lived in a Thai household. At the time of the 2010 census, the average Thai household size was 3.2 people.
+Ethnic groups
+Further information: Ethnic groups in Thailand
+A procession during the Hae Pha Khuen That festival of Wat Phra Mahathat
+
+Thai nationals make up the majority of Thailand's population, 95.9% in 2010. The remaining 4.1% of the population are Burmese (2.0%), others 1.3%, and unspecified 0.9%.[1]
+
+According to the Royal Thai Government's 2011 Country Report to the UN Committee responsible for the International Convention for the Elimination of All Forms of Racial Discrimination, available from the Department of Rights and Liberties Promotion of the Thai Ministry of Justice,[3]:3 62 ethnic communities are officially recognised in Thailand. Twenty million Central Thai (together with approximately 650,000 Khorat Thai) make up approximately 20,650,000 (34.1 percent) of the nation's population of 60,544,937[133] at the time of completion of the Mahidol University Ethnolinguistic Maps of Thailand data (1997).[134]
+
+The 2011 Thailand Country Report provides population numbers for mountain peoples ('hill tribes') and ethnic communities in the Northeast and is explicit about its main reliance on the Mahidol University Ethnolinguistic Maps of Thailand data.[134] Thus, though over 3.288 million people in the Northeast alone could not be categorised, the population and percentages of other ethnic communities circa 1997 are known for all of Thailand and constitute minimum populations. In descending order, the largest (equal to or greater than 400,000) are a) 15,080,000 Lao (24.9 percent) consisting of the Thai Lao[2] (14 million) and other smaller Lao groups, namely the Thai Loei (400–500,000), Lao Lom (350,000), Lao Wiang/Klang (200,000), Lao Khrang (90,000), Lao Ngaew (30,000), and Lao Ti (10,000; b) six million Khon Muang (9.9 percent, also called Northern Thais); c) 4.5 million Pak Tai (7.5 percent, also called Southern Thais); d) 1.4 million Khmer Leu (2.3 percent, also called Northern Khmer); e) 900,000 Malay (1.5%); f) 500,000 Ngaw (0.8 percent); g) 470,000 Phu Thai (0.8 percent); h) 400,000 Kuy/Kuay (also known as Suay) (0.7 percent), and i) 350,000 Karen (0.6 percent).[3]:7–13 Thai Chinese, those of significant Chinese heritage, are 14% of the population,[6] while Thais with partial Chinese ancestry comprise up to 40% of the population.[135] Thai Malays represent 3% of the population, with the remainder consisting of Mons, Khmers and various "hill tribes". The country's official language is Thai and the primary religion is Theravada Buddhism, which is practised by around 95% of the population.
+
+Increasing numbers of migrants from neighbouring Myanmar, Laos, and Cambodia, as well as from Nepal and India, have pushed the total number of non-national residents to around 3.5 million as of 2009, up from an estimated 2 million in 2008, and about 1.3 million in 2000.[136] Some 41,000 Britons live in Thailand.[137]
+Population centres
+Further information: List of cities in Thailand
+
+
+ 
+
+    v t e 
+
+Largest municipalities in Thailand
+See template
+	Rank 	Name 	Province 	Pop. 	Rank 	Name 	Province 	Pop. 	
+Bangkok
+Bangkok
+Nonthaburi City
+Nonthaburi City 	1 	Bangkok 	Bangkok 	5,686,646 	11 	Pattaya City 	Chonburi 	117,371 	Pak Kret City
+Pak Kret City
+Hat Yai City
+Hat Yai City
+2 	Nonthaburi City 	Nonthaburi 	255,793 	12 	Nakhon Si Thammarat City 	Nakhon Si Thammarat 	104,948
+3 	Pak Kret City 	Nonthaburi 	189,258 	13 	Nakhon Sawan City 	Nakhon Sawan 	84,122
+4 	Hat Yai City 	Songkhla 	159,627 	14 	Laem Chabang City 	Chonburi 	82,960
+5 	Nakhon Ratchasima City 	Nakhon Ratchasima 	131,286 	15 	Rangsit City 	Pathum Thani 	81,084
+6 	Udon Thani City 	Udon Thani 	131,192 	16 	Phuket City 	Phuket 	78,923
+7 	Chiang Mai City 	Chiang Mai 	131,091 	17 	Nakhon Pathom City 	Nakhon Pathom 	77,651
+8 	Surat Thani City 	Surat Thani 	130,114 	18 	Ubon Ratchathani City 	Ubon Ratchathani 	77,306
+9 	Chaophraya Surasak City 	Chonburi 	128,664 	19 	Chiang Rai City 	Chiang Rai 	74,226
+10 	Khon Kaen City 	Khon Kaen 	120,045 	20 	Phitsanulok City 	Phitsanulok 	68,898
+Language
+Main article: Languages of Thailand
+Population, Thailand
+Year 	Pop. 	±%
+1910 	8,131,247 	—    
+1919 	9,207,355 	+13.2%
+1929 	11,506,207 	+25.0%
+1937 	14,464,105 	+25.7%
+1947 	17,442,689 	+20.6%
+1960 	26,257,916 	+50.5%
+1970 	34,397,371 	+31.0%
+1980 	44,824,540 	+30.3%
+1990 	54,548,530 	+21.7%
+2000 	60,916,441 	+11.7%
+2010 	65,926,261 	+8.2%
+Source: [1] National Statistical Office of Thailand
+
+The official language of Thailand is Thai, a Tai–Kadai language closely related to Lao, Shan in Myanmar, and numerous smaller languages spoken in an arc from Hainan and Yunnan south to the Chinese border. It is the principal language of education and government and spoken throughout the country. The standard is based on the dialect of the central Thai people, and it is written in the Thai alphabet, an abugida script that evolved from the Khmer alphabet. Sixty-two languages were recognised by the Royal Thai Government in the 2011 Country Report to the UN Committee responsible for the International Convention for the Elimination of All Forms of Racial Discrimination, which employed an ethnolinguistic approach and is available from the Department of Rights and Liberties Promotion of the Thai Ministry of Justice.[3]:3 Southern Thai is spoken in the southern provinces, and Northern Thai is spoken in the provinces that were formerly part of the independent kingdom of Lan Na. For the purposes of the national census, which does not recognise all 62 languages recognised by the Royal Thai Government in the 2011 Country Report, four dialects of Thai exist; these partly coincide with regional designations.
+
+The largest of Thailand's minority languages is the Lao dialect of Isan spoken in the northeastern provinces. Although sometimes considered a Thai dialect, it is a Lao dialect, and the region where it is traditionally spoken was historically part of the Lao kingdom of Lan Xang. In the far south, Kelantan-Pattani Malay is the primary language of Malay Muslims. Varieties of Chinese are also spoken by the large Thai Chinese population, with the Teochew dialect best-represented.
+
+Numerous tribal languages are also spoken, including many Austroasiatic languages such as Mon, Khmer, Viet, Mlabri and Orang Asli; Austronesian languages such as Cham and Moken; Sino-Tibetan languages like Lawa, Akha, and Karen; and other Tai languages such as Tai Yo, Phu Thai, and Saek. Hmong is a member of the Hmong–Mien languages, which is now regarded as a language family of its own.
+
+English is a mandatory school subject, but the number of fluent speakers remains low, especially outside cities.
+Religion
+Main article: Religion in Thailand
+Religion in Thailand, 2010[1][138]
+Religion 			Percent 	
+Buddhism 	
+  
+	93.2%
+Islam 	
+  
+	4.9%
+Christianity 	
+  
+	0.9%
+Hinduism 	
+  
+	0.1%
+Unaffiliated 	
+  
+	0.3%
+
+Thailand's prevalent religion is Theravada Buddhism, which is an integral part of Thai identity and culture. Active participation in Buddhism is among the highest in the world. According to the 2000 census, 94.6% of the country's population self-identified as Buddhists of the Theravada tradition. Muslims constitute the second largest religious group in Thailand, comprising 4.9% of the population.[1][138]
+
+Islam is concentrated mostly in the country's southernmost provinces: Pattani, Yala, Satun, Narathiwat, and part of Songkhla Chumphon, which are predominantly Malay, most of whom are Sunni Muslims. Christians represent 0.9% of the population, with the remaining population consisting of Sikhs and Hindus, who live mostly in the country's cities. There is also a small but historically significant Jewish community in Thailand dating back to the 17th century.
+Culture
+Main article: Culture of Thailand
+See also: Music of Thailand, Isan, and Cinema of Thailand
+Theravada Buddhism, highly practised in Thailand
+
+Thai culture has been shaped by many influences, including Indian, Lao, Burmese, Cambodian, and Chinese.
+
+Its traditions incorporate a great deal of influence from India, China, Cambodia, and the rest of Southeast Asia. Thailand's national religion, Theravada Buddhism, is central to modern Thai identity. Thai Buddhism has evolved over time to include many regional beliefs originating from Hinduism, animism, as well as ancestor worship. The official calendar in Thailand is based on the Eastern version of the Buddhist Era (BE), which is 543 years ahead of the Gregorian (Western) calendar. Thus the year 2015 is 2558 BE in Thailand.
+
+Several different ethnic groups, many of which are marginalised, populate Thailand. Some of these groups spill over into Myanmar, Laos, Cambodia and Malaysia and have mediated change between their traditional local culture, national Thai, and global cultural influences. Overseas Chinese also form a significant part of Thai society, particularly in and around Bangkok. Their successful integration into Thai society has allowed for this group to hold positions of economic and political power. Thai Chinese businesses prosper as part of the larger bamboo network, a network of overseas Chinese businesses operating in the markets of Southeast Asia that share common family and cultural ties.[139]
+Khon show is the most stylised form of Thai performance.
+
+The traditional Thai greeting, the wai, is generally offered first by the younger of the two people meeting, with their hands pressed together, fingertips pointing upwards as the head is bowed to touch face to fingertips, usually coinciding with the spoken words "sawatdi khrap" for male speakers, and "sawatdi kha" for females. The elder may then respond in the same way. Social status and position, such as in government, will also have an influence on who performs the wai first. For example, although one may be considerably older than a provincial governor, when meeting it is usually the visitor who pays respect first. When children leave to go to school, they are taught to wai their parents to indicate their respect. The wai is a sign of respect and reverence for another, similar to the namaste greeting of India and Nepal.
+
+As with other Asian cultures, respect towards ancestors is an essential part of Thai spiritual practice. Thais have a strong sense of hospitality and generosity, but also a strong sense of social hierarchy. Seniority is paramount in Thai culture. Elders have by tradition ruled in family decisions or ceremonies. Older siblings have duties to younger ones.
+
+Taboos in Thailand include touching someone's head or pointing with the feet, as the head is considered the most sacred and the foot the lowest part of the body.
+Cuisine
+Further information: Cuisine of Thailand
+
+Thai cuisine blends five fundamental tastes: sweet, spicy, sour, bitter, and salty. Common ingredients used in Thai cuisine include garlic, chillies, lime juice, lemon grass, coriander, galangal, palm sugar, and fish sauce (nam pla). The staple food in Thailand is rice, particularly jasmine variety rice (also known as "hom Mali" rice) which forms a part of almost every meal. Thailand was long[when?] the world's largest exporter of rice, and Thais domestically consume over 100 of milled rice per person per year.[130] Over 5,000 varieties of rice from Thailand are preserved in the rice gene bank of the International Rice Research Institute (IRRI), based in the Philippines. The king of Thailand is the official patron of IRRI.[140]
+Media
+Further information: Media of Thailand
+
+Thai society has been influenced in recent years by its widely available multi-language press and media. There are some English and numerous Thai and Chinese newspapers in circulation. Most Thai popular magazines use English headlines as a chic glamour factor. Many large businesses in Bangkok operate in English as well as other languages.
+
+Thailand is the largest newspaper market in Southeast Asia with an estimated circulation of over 13 million copies daily in 2003. Even upcountry, out of Bangkok, the media flourish. For example, according to Thailand's Public Relations Department Media Directory 2003–2004, the nineteen provinces of Isan, Thailand's northeastern region, hosted 116 newspapers along with radio, TV, and cable. Since then, another province, Bueng Kan, was incorporated, totalling twenty provinces. In addition, a military coup on 22 May 2014 led to severe state restrictions on all media and forms of expression.
+Units of measurement
+Further information: Thai units of measurement
+
+Thailand generally uses the metric system, but traditional units of measurement for land area are used, and imperial units of measurement are occasionally used for building materials, such as wood and plumbing fixtures. Years are numbered as B.E. (Buddhist Era) in educational settings, the civil service, government, and on contracts and newspaper datelines. In banking, and increasingly in industry and commerce, standard Western year (Christian or Common Era) counting is the standard practice.[141]
+Sports
+See also: Thailand at the Olympics, Rugby union in Thailand, Golf in Thailand, and Football in Thailand
+Muay Thai, Thailand's signature sport
+
+Muay Thai (Thai: มวยไทย, RTGS: Muai Thai,  [muaj tʰaj], lit. "Thai boxing") is a native form of kickboxing and Thailand's signature sport. It incorporates kicks, punches, knees and elbow strikes in a ring with gloves similar to those used in Western boxing and this has led to Thailand gaining medals at the Olympic Games in boxing.
+
+Association football has overtaken muay Thai as the most widely followed sport in contemporary Thai society. Thailand national football team has played the AFC Asian Cup six times and reached the semifinals in 1972. The country has hosted the Asian Cup twice, in 1972 and in 2007. The 2007 edition was co-hosted together with Indonesia, Malaysia and Vietnam. It is not uncommon to see Thais cheering their favourite English Premier League teams on television and walking around in replica kit. Another widely enjoyed pastime, and once a competitive sport, is kite flying.
+Rajamangala National Stadium
+
+Volleyball is rapidly growing as one of the most popular sports. The women's team has often participated in the World Championship, World Cup, and World Grand Prix Asian Championship. They have won the Asian Championship twice and Asian Cup once. By the success of the women's team, the men team has been growing as well.
+
+Takraw (Thai: ตะกร้อ) is a sport native to Thailand, in which the players hit a rattan ball and are only allowed to use their feet, knees, chest, and head to touch the ball. Sepak takraw is a form of this sport which is similar to volleyball. The players must volley a ball over a net and force it to hit the ground on the opponent's side. It is also a popular sport in other countries in Southeast Asia. A rather similar game but played only with the feet is buka ball.
+
+Snooker has enjoyed increasing popularity in Thailand in recent years, with interest in the game being stimulated by the success of Thai snooker player James Wattana in the 1990s.[142] Other notable players produced by the country include Ratchayothin Yotharuck, Noppon Saengkham and Dechawat Poomjaeng.[143]
+
+Rugby is also a growing sport in Thailand with the Thailand national rugby union team rising to be ranked 61st in the world.[144] Thailand became the first country in the world to host an international 80 welterweight rugby tournament in 2005.[145] The national domestic Thailand Rugby Union (TRU) competition includes several universities and services teams such as Chulalongkorn University, Mahasarakham University, Kasetsart University, Prince of Songkla University, Thammasat University, Rangsit University, the Thai Police, the Thai Army, the Thai Navy and the Royal Thai Air Force. Local sports clubs which also compete in the TRU include the British Club of Bangkok, the Southerners Sports Club (Bangkok) and the Royal Bangkok Sports Club.
+
+Thailand has been called the golf capital of Asia[146] as it is a popular destination for golf. The country attracts a large number of golfers from Japan, Korea, Singapore, South Africa, and Western countries who come to play golf in Thailand every year.[147] The growing popularity of golf, especially among the middle classes and immigrants, is evident as there are more than 200 world-class golf courses nationwide,[148] and some of them are chosen to host PGA and LPGA tournaments, such as Amata Spring Country Club, Alpine Golf and Sports Club, Thai Country Club, and Black Mountain Golf Club.
+
+Basketball is a growing sport in Thailand, especially on the professional sports club level. The Chang Thailand Slammers won the 2011 ASEAN Basketball League Championship.[149] The Thailand national basketball team had its most successful year at the 1966 Asian Games where it won the silver medal.[150]
+
+Other sports in Thailand are slowly growing as the country develops its sporting infrastructure. The success in sports like weightlifting and taekwondo at the last two summer Olympic Games has demonstrated that boxing is no longer the only medal option for Thailand.
+Sporting venues
+
+Thammasat Stadium is a multi-purpose stadium in Bangkok. It is currently used mostly for football matches. The stadium holds 25,000. It is on Thammasat University's Rangsit campus. It was built for the 1998 Asian Games by construction firm Christiani and Nielsen, the same company that constructed the Democracy Monument in Bangkok.
+
+Rajamangala National Stadium is the biggest sporting arena in Thailand. It currently has a capacity of 65,000. It is in Bang Kapi, Bangkok. The stadium was built in 1998 for the 1998 Asian Games and is the home stadium of the Thailand national football team.
+
+The well-known Lumpini Boxing Stadium will host its final Muay Thai boxing matches on 7 February 2014 after the venue first opened in December 1956. Managed by the Royal Thai Army, the stadium was officially selected for the purpose of muay Thai bouts following a competition that was staged on 15 March 1956. From 11 February 2014, the stadium will relocate to Ram Intra Road, due to the new venue's capacity to accommodate audiences of up to 3,500. Foreigners typically pay between 1,000–2,000 baht to view a match, with prices depending on the location of the seating.[151]
+Sport events
+Multi-sport event
+Games 	Events 	Venues
+Universiade (FISU) 	2007 Summer Universiade 	Bangkok
+Asian Games (OCA) 	1966 Asian Games 	Bangkok
+1970 Asian Games 	Bangkok
+1978 Asian Games 	Bangkok
+1998 Asian Games 	Bangkok
+Asian Indoor and Martial Arts Games (OCA) 	2005 Asian Indoor Games 	Bangkok
+2009 Asian Martial Arts Games 	Bangkok
+Asian Beach Games (OCA) 	2014 Asian Beach Games 	Phuket
+Southeast Asian Games (SEAGF) 	1959 Southeast Asian Peninsular Games 	Bangkok
+1967 Southeast Asian Peninsular Games 	Bangkok
+1975 Southeast Asian Peninsular Games 	Bangkok
+1985 Southeast Asian Games 	Bangkok
+1995 Southeast Asian Games 	Chiang Mai
+2007 Southeast Asian Games 	Nakhon Ratchasima
+ASEAN Para Games (APSF) 	2008 ASEAN Para Games 	Nakhon Ratchasima
+ASEAN University Games (AUSC) 	1981 ASEAN University Games 	Chiang Mai
+1988 ASEAN University Games 	Chonburi
+1999 ASEAN University Games 	Bangkok
+2010 ASEAN University Games 	Chiang Mai
+ASEAN School Games (ASSC) 	2009 ASEAN School Games 	Suphan Buri
+2016 ASEAN School Games 	Chiang Mai
+International sports federations events
+
+Summer Olympics Federations
+
+Sports 	Events 	Years
+Archery (WA) 	WA World Para-archery Championships 	2013
+WA World University Archery Championships 	2002
+Badminton (BWF) 	BWF World Men's Team Championships 	1976, 2018
+BWF World Team Championships for Women 	2018
+BWF World Junior Championships 	2013
+BWF World Badminton Grand Prix Finals 	1994
+BWF Badminton World Cup 	1988
+Basketball (FIBA) 	FIBA Under-19 World Championship for Women 	2009
+Boxing (AIBA) 	AIBA World Boxing Championships 	2003
+AIBA Women Boxing Championships 	2018
+Football (FIFA) 	FIFA U-19 Women's World Championship 	2004
+FIFA Futsal World Cup 	2012
+Table tennis (ITTF) 	ITTF World Tour Grand Finals 	2014
+Taekwondo (WTF) 	WTF World Cup Taekwondo Team Championships 	2006
+Volleyball (FIVB) 	FIVB Volleyball World Grand Prix 	2016
+FIVB Volleyball Men's U21 World Championship 	1999
+FIVB Volleyball Women's U20 World Championship 	1995, 2003, 2007
+FIVB Volleyball Boys' U19 World Championship 	2003
+FIVB Volleyball Girls' U18 World Championship 	1997, 2009, 2013
+FIVB Beach Volleyball U19 World Championships 	2003
+Weightlifting (IWF) 	IWF World Weightlifting Championships 	1997, 2007
+IWF World University Weightlifting Championships 	2014
+IWF World Youth Weightlifting Championships 	2009, 2017
+Wrestling (UWW) 	UWW World Beach Wrestling Championships 	2012
+Beauty pageants
+Women's pageants
+Events 	Years 	Contestant 	Awards
+Miss Universe 	1965 	Apasra Hongsakula 	Winner
+1966 	Cheranand Savetanand 	2nd Runner-up
+1988 	Porntip Nakhirunkanok 	Winner
+Miss World 	1989 	Prathumrat Woramali 	3rd Runner-up
+1997 	Tanya Suesuntisook 	4rd Runner-up
+Miss International 	1968 	Rungtip Pinyo 	4th Runner-up
+1969 	Usanee Phenphimol 	4th Runner-up
+1971 	Supuk Likitkul 	1st Runner-up
+2010 	Piyaporn Deejing 	1st Runner-up
+2014 	Punika Kulsoontornrut 	2nd Runner-up
+Miss Earth 	2010 	Watsaporn Wattanakoon 	2nd Runner-up
+2013 	Punika Kulsoontornrut 	2nd Runner-up
+International rankings
+Main article: International rankings of Thailand
+Organisation 	Survey 	Ranking
+The Heritage Foundation 	Indices of Economic Freedom 	60 of 179
+A.T. Kearney/Foreign Policy magazine 	Global Services Location Index 2011[152] 	7 of 50
+Reporters Without Borders 	Worldwide Press Freedom Index, 2014 	130 of 180
+Transparency International 	Corruption Perceptions Index 	80 of 179
+United Nations Development Programme 	Human Development Index 	89 of 187
+World Economic Forum 	Global Competitiveness Report (2008) 	34 of 134[153]
+World Gold Council 	Gold reserve (2010) 	24 of 111
+HSBC International 	Expat Explorer Survey (2012) 	2 of 30[154]
+See also
+
+    Thailand portal iconAsia portal iconGeography portal Southeast Asia portal 
+
+Book icon 	
+
+    Book: Thailand
+
+    Outline of Thailand
+    Index of Thailand-related articles
+    Royal Thai Police
+    Law of Thailand
+    Telecommunications in Thailand
+    Thai ceramics
+    Thai temple art and architecture
+    Transport in Thailand
+    Corruption in Thailand
+
+References
+
+Thailand, The World Factbook.
+Draper, John; Kamnuansilpa, Peerasit (2016). "The Thai Lao Question: The Reappearance of Thailand’s Ethnic Lao Community and Related Policy Questions". Asian Ethnicity. doi:10.1080/14631369.2016.1258300. Retrieved 23 November 2016.
+International Convention on the Elimination of All Forms of Racial Discrimination; Reports submitted by States parties under article 9 of the Convention: Thailand (PDF) (in English with appended Thai government translation). United Nations Committee on the Elimination of Racial Discrimination. 28 July 2011. Retrieved 8 October 2016.
+David Levinson (1998), Ethnic Groups Worldwide: A Ready Reference Handbook, Oryx Pres, p. 287, ISBN 1573560197
+Paul, Lewis M.; Simons, Gary F.; Fennig, Charles D. (2013), Ethnologue: Languages of the World, SIL International, ISBN 978-1-55671-216-6
+Barbara A. West (2009), Encyclopedia of the Peoples of Asia and Oceania, Facts on File, p. 794, ISBN 1438119135
+"Religious Composition by Country, 2010–2050". 2 April 2015. "1615 L. Street NW, Suite 800, Washington DC 20036 (202) 419-4300 | Main (202) 419-4349 | Fax (202) 419-4372 | Media Inquiries"
+"World Population Prospects: The 2015 Revision, Key Findings and Advance Tables" (PDF). United Nations Department of Economic and Social Affairs/Population Division. p. 17. Retrieved 10 January 2016.
+(Thai) National Statistics Office, "100th anniversary of population censuses in Thailand: Population and housing census 2010: 11th census of Thailand". popcensus.nso.go.th.
+"Thailand". International Monetary Fund. Retrieved 16 April 2016.
+"Gini Index". World Bank. Retrieved 2 June 2015.
+Global 2016 Human Development Report Overview – English (PDF). New York: United Nations Development Programme (UNDP). 2017. pp. 22–24. Retrieved 22 March 2017.
+"Merriam-Webster Online". Merriam-webster.com. 25 April 2007. Retrieved 25 April 2010.
+Thailand and the World Bank, World Bank on Thailand country overview.
+The Guardian, Country profile: Thailand, 25 April 2009.
+Jonathan H. Ping Middle Power Statecraft (p 104)
+Charles Eliot (1921). The Project Gutenberg EBook of Hinduism and Buddhism, An Historical Sketch, Vol. 3 (of 3) [EBook #16847]. London: Routledge & Kegan Paul Ltd. pp. Ch. xxxvii 1; citing in turn Footnote 189: The name is found on Champan inscriptions of 1050 CE and according to Gerini appears in Ptolemy's Samarade = Sâmaraṭṭha. See Gerini, Ptolemy, p. 170. But Samarade is near Bangkok and there can hardly have been Thais there in Ptolemy's time; and Footnote 190: So too in Central Asia Kustana appears to be a learned distortion of the name Khotan, made to give it a meaning in Sanskrit.
+Thailand (Siam) History, CSMngt-Thai. Archived 24 April 2015 at the Wayback Machine.
+Cœdès 1968, p. 197.
+จิตร ภูมิศักดิ์ 1976: "ความเป็นมาของคำสยาม ไทย ลาวและขอม และลักษณะทางสังคม ของชื่อชนชาติ" (Jid Phumisak 1976: "Coming Into Existence for the Siamese Words for Thai, Laotian and Khmer and Societal Characteristics for Nation-names")
+Thailand. History. Encyclopædia Britannica
+Some Aspects of Asian History and Culture by Upendra Thakur p.157
+Cœdès 1968, pp. 190–191,194–195.
+"Science news: What happened at Angkor Wat". The Washington Post. 13 April 2010.
+Slave-owning societies. Encyclopædia Britannica.
+Slavery in Nineteenth-Century Northern Thailand. Kyoto Review of South East Asia.
+"King, country and the coup". The Indian Express. Mumbai. 22 September 2006. Retrieved 3 November 2011.
+Declaration between Great Britain and France with regard of the Kingdom of Siam and other matters London. January 15, 1896. Treaty Series. No. 5
+Werner Gruhl, Imperial Japan's World War Two, 1931–1945, Transaction Publishers, 2007 ISBN 978-0-7658-0352-8
+Norman Brook. The National Archives.
+http://asiapacific.anu.edu.au/newmandala/2014/05/17/thailands-juristocracy/
+Bangkok Post: Section 44 is necessary: NCPO. This list contains 2 errors: it states that the 6th constitution was promulgated in 1912 (rather than 1952), and it states that the 11th constitution was promulgated in 1976 (rather than 1974).
+Thanet Aphornsuvan, "The Search for Order: Constitutions and Human Rights in Thai Political History" (PDF). Archived from the original (PDF) on 2008-02-26. (152 KB), 2001 Symposium: Constitutions and Human Rights in a Global Age: An Asia Pacific perspective
+"A list of previous coups in Thailand". Associated Press. 19 September 2006. Archived from the original on 16 October 2007. Retrieved 25 April 2010.
+"Raw Data: List of Recent Coups in Thailand's History". Fox News Channel. 19 September 2006. Archived from the original on 6 July 2008. Retrieved 25 April 2010.
+Kittipong Kittayarak, "The Thai Constitution of 1997 and its Implication on Criminal Justice Reform" (PDF). (221 KB)
+Robert B. Albritton and Thawilwadee Bureekul, "Developing Democracy under a New Constitution in Thailand" (PDF). (319 KB), National Taiwan University and Academia Sinica Asian Barometer Project Office Working Paper Series No. 28, 2004
+Pongsudhirak Thitinan, "Victory places Thaksin at crossroads", Bangkok Post, 9 February 2005
+"Unprecedented 72% turnout for latest poll". The Nation. 10 February 2005.
+Aurel Croissant and Daniel J. Pojar, Jr., Quo Vadis Thailand? Thai Politics after the 2005 Parliamentary Election, Strategic Insights, Volume IV, Issue 6 (Jun 2005) Archived 19 April 2009 at the Wayback Machine.
+The Nation, NLA 'doesn't represent' all of the people, 14 October 2006
+The Nation, Assembly will not play a major role, 14 October 2006
+The Nation, Interim charter draft, 27 September 2006
+"Ban on political activities lifted". The Nation. 18 July 2007.
+Ahuja, Ambika (10 September 2008). "Thai Premier Ousted Over Stints on Cooking Show". The Washington Post. Retrieved 25 April 2010.
+Thailändisches Verfassungsgericht verbietet Regierungspartei. Der Spiegel, 2 December 2008
+Beaumont, Peter (11 April 2009). "Protesters storm Asian leaders' summit in Thailand". The Guardian. Retrieved 22 February 2014.
+Rathus, Joel (4 November 2009). "Squaring the Japanese and Australia proposals for an East Asian and Asia Pacific Community: is America in or out?". East Asia Forum. East Asian Bureau of Economic Research. Retrieved 22 February 2014.
+"PM vows to seek truth". Bangkok Post. 22 May 2010. Retrieved 22 May 2010.[dead link]
+"Bangkok clashes death toll climbs to 18, with 800 hurt". BBC News. 11 April 2010.
+Aj Jazeera English, Bloodiest Thai clashes in 18 years, 11 April 2010
+Australia 'very concerned' over Thailand clashes, NST Online Australia, 11 April 2010
+Military admits firing at reds, Bangkok Post, 15 April 2010
+"Profile: Thailand's reds and yellows". BBC News.
+"Thailand confirms Yingluck Shinawatra as first female PM". The Guardian. 5 August 2011. Retrieved 15 December 2013.
+Kevin Hewison (3 December 2013). "Thailand’s street politics turns violent yet again". The Conversation Australia. Retrieved 15 December 2013.
+"Thai prime minister dissolves parliament". Al Jazeera. 9 December 2013. Retrieved 15 December 2013.
+"Thai PM Urges Protesters to Take Part in Election". The New York Times. Reuters. 10 December 2013. Retrieved 15 December 2013.
+Khoonton, Thanarak (22 December 2013). "Suthep: Protesters to block EC registration". Bangkok Post. Retrieved 23 December 2013.
+Hodal, Kate. "Thai court orders Yingluck Shinawatra to step down as PM". The Guardian. Retrieved 7 May 2014.
+"Coup leader General Prayuth is Thailand's new PM". Southeast Asia Post. 21 August 2014. Retrieved 22 August 2014.
+"Thailand's army declares martial law, denies coup". CBC News. Retrieved 20 May 2014.
+"Thailand army chief announces military coup". The Guardian. Retrieved 22 May 2014.
+Thailand military seizes power in coup, BBC, 22 May 2014, retrieved 22 May 2014
+"Thai coup makers hold ex-PM as troops disperse small-scale protests".
+PCL., Post Publishing. "Bangkok Post".
+"Thailand coup: tourists must abide by curfew".
+"Coup declared in Thailand, curfew imposed".
+CNN, By Karla Cripps. "Soldiers, selfies and a coup: Thailand's tourism industry suffers - CNN.com".
+"Thai military government replaces martial law". BBC. Retrieved 12 November 2015.
+Gray, Denis D. (22 August 2015). "Deadly bombing in military-ruled Thailand adds to mounting woes in one-time 'Land of Smiles'". U.S. News & World Report. Associated Press. Retrieved 16 January 2017.
+http://www.bbc.co.uk/news/world-asia-36972396
+https://www.theguardian.com/world/2016/aug/07/thailand-votes-in-favour-of-military-backed-constitution
+https://www.ft.com/content/c0638358-5d29-11e6-bb77-a121aa8abd95
+http://time.com/4448655/thailand-constitutional-referendum/
+http://theconversation.com/seeking-more-power-thailands-new-king-is-moving-the-country-away-from-being-a-constitutional-monarchy-71637
+"FTA Watch Group website". Ftawatch.org. Retrieved 25 April 2010.
+John D. Ciorciari (10 March 2004). "Thaksin's Chance for Leading Role in the Region". The Straits Times. Singapore.
+'Thaksin to face charges over Burma telecom deal. ICT News, 2 August 2007
+"Thailand sends troops to bolster US occupation of Iraq". World Socialist Web Site. Retrieved 28 January 2015.
+The Telegraph, Troops from Thailand and Cambodia fight on border, 3 April 2009
+Bloomberg, Thai, Cambodian Border Fighting Stops, Thailand Says, 3 April 2009
+"Thailand Military Strength". Global Firepower. Retrieved 15 December 2014.
+Chapter 2 of the 2007 Constitution of Thailand
+John Pike (27 April 2005). "Ministry of Defense". GlobalSecurity.org. Retrieved 25 April 2010.
+SIPRI Military Expenditure Database – Thailand. SIPRI, 2012. Retrieved 3 May 2012.
+Chapter 4 of the 2007 Constitution of Thailand
+"The Climate of Thailand" (PDF). Thai Meteorological Department. Retrieved 18 August 2016.
+Dr. Susan L. Woodward (1997–2014). "Tropical Savannas". Biomes of the World. S. L. Woodward. Retrieved 23 February 2014.
+"2016 Report". EPI Report. Yale University. Retrieved 17 December 2016.
+EPI (2016): Thailand
+"Thailand's Elephants". Thai Elephant Conservation Center. Retrieved 3 March 2015.
+Jennifer Hile (6 October 2002). "Activists Denounce Thailand's Elephant "Crushing" Ritual". National Geographic Today. Retrieved 7 June 2007.
+Teena Amrit Gill (18 February 1997). "Endangered Animals on Restaurant Menus". Albion Monitor/News. Retrieved 7 June 2007.
+"Thai Forests: Dept. National Parks, Wildlife & Plants". Thai Society for the Conservation of Wild Animals.
+BTI 2014 | Thailand country Report
+Thai university applicants scored an average 28.34% in English in recent university entrance exams.[citation needed] In a recent IMD World Competitiveness Report, Thailand was ranked 54th out of 56 countries globally for English proficiency, the second-lowest in Asia. Singapore was third, Malaysia 28th, and Korea 46th: The Sorry State of Thai Education – Part 4: Dismal English-language education, Reuters & The Korea Herald, 23 March 2012.
+Draper, John (2012), "Revisiting English in Thailand", Asian EFL Journal, Asian EFL Journal, 14 (4): 9–38, ISSN 1738-1460
+OECD (2013), Structural Policy Country Notes: Thailand (PDF), OECD
+Khaopa, Wannapa (12 December 2012). "Thai students drop in world maths and science study". The Nation.
+Draper, John (12 December 2011). "Solving Isaan's education problem". The Isaan Record.
+Draper, John (21 February 2014). "PISA Thailand regional breakdown shows inequalities between Bangkok and Upper North with the rest of Thailand". The Isaan Record.
+"MOPH reports low IQ among Thai youth : National News Bureau of Thailand". Thainews.prd.go.th. 8 July 2011. Archived from the original on 8 July 2011. Retrieved 3 November 2011.
+"Thailand Provides 27,231 Schools With Internet". 11 March 2013. Retrieved 30 January 2015.
+Bangkok's free internet: 23,000 hotspots | Bangkok Post: learning. Bangkok Post (2 May 2012). Retrieved 16 April 2013.
+"Thailand’s Massive Internet Censorship", Asian Correspondent.com, Hybrid News Limited, 22 July 2010
+"GDP (Purchasing Power Parity)". The World Factbook. US CIA. Retrieved 4 January 2015.
+"NESDB: Thailand facing unemployment problem". Pattaya Mail. 25 November 2014. Retrieved 4 January 2015.
+Aidan Jones (31 January 2014). "Thai northeast vows poll payback to Shinawatra clan". Agence France-Presse. Retrieved 8 February 2014.
+Phisanu Phromchanya (24 February 2012). "Thailand Economy To Rebound Strongly In 2012,". The Wall Street Journal. Retrieved 26 April 2012.
+"Cambodian exodus from Thailand jumps to nearly 180,000". Agence France-Presse. 17 June 2014. Retrieved 17 June 2014.
+Santivimolnat, Santan (18 August 2012). "2-million milestone edges nearer". Bangkok Post. The Post Publishing.
+Languepin, Olivier (3 January 2013). "Thailand poised to Surpass Car Production target". Thailand Business News. Archived from the original on 15 January 2013. Retrieved 20 January 2013.
+"Production Statistics". OICA (International Organization of Motor Vehicle Manufacturers). Archived from the original on 6 November 2013. Retrieved 26 November 2012.
+Takahashi, Toru (27 November 2014). "Thailand's love affair with the pickup truck". Nikkei Asian Review. Retrieved 4 January 2015.
+"Government moves to head off tourist fears". Bangkok Post. 2015-08-24. Retrieved 24 August 2015.
+Travel and Tourism, Economic Impact 2014: Thailand (PDF) (2014 ed.). London: World Travel & Tourism Council. 2014. Retrieved 10 March 2015.
+"History". TATnews.org. Tourism Authority of Thailand (TAT). 2015. Retrieved 7 May 2015.
+Tourist Police in Thailand. Amazing-Thailand.com. Retrieved on 16 September 2010.
+IUCN – Home. Cms.iucn.org (24 April 2008). Retrieved on 16 September 2010.
+Ocha, Witchayanee. "Transsexual emergence: gender variant identities in Thailand." Culture, Health & Sexuality14.5 (2012): 563–75. Web.
+Thailand mulls legal prostitution. The Age, 26 November 2003
+Pasuk Phongpaichit Thailand's illegal economy and public policy. Seminar paper delivered at the Centre of Southeast Asian Studies, Kyoto University, Nov 1999
+Martin, Lorna. "Paradise Revealed". Taipei Times. Retrieved 29 January 2015.
+Finch, Steve. "Thailand top destination for medical tourists." CMAJ : Canadian Medical Association Journal. Canadian Medical Association, 07 Jan. 2014. Web. 1 Mar. 2017.
+Chokrungvaranont, Prayuth, Gennaro Selvaggi, Sirachai Jindarak, Apichai Angspatt, Pornthep Pungrasmi, Poonpismai Suwajo, and Preecha Tiewtranon. "The Development of Sex Reassignment Surgery in Thailand: A Social Perspective." The Scientific World Journal. Hindawi Publishing Corporation, 2014. Web. 23 Mar. 2017.
+Henri Leturque and Steve Wiggins 2010. Thailand's progress in agriculture: Transition and sustained productivity growth. London: Overseas Development Institute
+International Grains Council. "Grain Market Report (GMR444)", London, 14 May 2014. Retrieved 13 June 2014.
+"CIA World Factbook – Greater Mekong Subregion". Cia.gov. Retrieved 3 November 2011.
+"Rice Around The World. Thailand". Irri.org. Archived from the original on 27 March 2008. Retrieved 25 April 2010.
+"International Index of Energy Security Risk" (PDF). Institute for 21st Century Energy. Institute for 21st Century Energy. 2013. Retrieved 14 September 2014.
+ประกาศสานักทะเบียนกลาง กรมการปกครอง เรื่อง จานวนราษฎรทั่วราชอาณาจักร แยกเป็นกรุงเทพมหานครและจังหวัดต่าง ๆ ตามหลักฐานการทะเบียนราษฎร ณ วันที่ 31 ธันวาคม 2553. Web.archive.org (16 July 2011). Retrieved 20 May 2012.
+World Bank Group. (n.d.). Population, total [Thailand]. Washington, DC: Author. http://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH
+Ethnolinguistic Maps of Thailand (PDF) (in Thai). Office of the National Culture Commission. 2004. Retrieved 8 October 2016.
+Theraphan Luangthongkum (2007). "The Position of Non-Thai Languages in Thailand". Language, Nation and Development in Southeast Asia. ISEAS Publishing: 191.
+Thailand: Burmese migrant children missing out on education. IRIN Asia. 15 June 2009. Archived 27 February 2012 at the Wayback Machine.
+McGeown, Kate (14 December 2006). "Hard lessons in expat paradise". BBC News. Retrieved 1 March 2015.
+"US Department of State, Thailand". State.gov. Retrieved 25 April 2010.
+Murray L Weidenbaum (1 January 1996). The Bamboo Network: How Expatriate Chinese Entrepreneurs are Creating a New Economic Superpower in Asia. Martin Kessler Books, Free Press. pp. 4–8. ISBN 978-0-684-82289-1.
+"Cooperation of IRRI and Thailand" (PDF). (38.7 KB) Archived 30 June 2005 at the Wayback Machine.
+"Weights and measures in Thailand". Cockatoo.com. 17 December 1923. Retrieved 25 April 2010.
+Hodgson, Guy (18 April 1993). "Snooker: A storm coming in from the East: Thailand doesn't boast many world-beating sportsmen. But over the next fortnight James Wattana might just become one". The Independent. London. Retrieved 25 January 2015.
+Goyder, James (11 January 2014). "South East Asians proving high earners on the tables". thenational.ae. Retrieved 25 January 2015.
+"International Rugby Board – THAILAND". International Rugby Board. Retrieved 25 April 2010.
+The Nation, 19 July 2005
+"Golf in Thailand by". Golfasia.com. Retrieved 25 April 2010.
+Chawadee Nualkhair (10 July 2009). "Thailand woos foreign golfers with sun, sand traps". Reuters. Retrieved 25 April 2010.
+"Why to book with golf2thailand.com : Thailand Golf Courses Thailand Golf Packages". Golf2thailand.com. Retrieved 25 April 2010.
+"Chang Thailand Slammers – AirAsia ASEAN Basketball League". aseanbasketballleague.com. Retrieved 2 June 2012.
+"Thailand Basketball". best-basketball-tips.com. Retrieved 2 June 2012.
+"End of an era for Muay Thai at Lumpini". Bangkok Post. 6 February 2014. Retrieved 6 February 2014.
+Global Services Location Index 2011
+"Global Competitiveness Report 2008-2009" (PDF). World Economic Forum. weforum.org. 2008. Archived from the original (PDF) on 24 March 2009. Retrieved 12 September 2008.
+
+    "Expat Explorer Survey 2012" (PDF). Expat. HSBC Group. Retrieved 24 October 2012.
+
+Bibliography
+
+    Cœdès, George (1968). Walter F. Vella, ed. The Indianized States of Southeast Asia. trans.Susan Brown Cowing. University of Hawaii Press. ISBN 978-0-8248-0368-1.
+
+External links
+Find more about
+Thailand
+at Wikipedia's sister projects
+
+    Definitions from Wiktionary
+    Media from Commons
+    News from Wikinews
+    Quotations from Wikiquote
+    Texts from Wikisource
+    Textbooks from Wikibooks
+    Travel guide from Wikivoyage
+    Learning resources from Wikiversity
+
+	Wikimedia Commons has media related to Category:Thailand.
+
+Government
+
+    Thaigov.go.th – Government of Thailand
+    Chief of State and Cabinet Members
+    Mfa.go.th – Ministry of Foreign Affairs
+    Thailand Internet information – National Electronics and Computer Technology Center
+    Ministry of Culture
+
+General information
+
+    "Thailand". The World Factbook. Central Intelligence Agency.
+    Thailand entry in Library of Congress Country Studies. 1987
+    Thailand from UCB Libraries GovPubs
+    Thailand at DMOZ
+    Thailand from the BBC News
+    Thailand Encyclopædia Britannica entry
+    Wikimedia Atlas of Thailand
+    Longdo Map – Thailand maps in English and Thai
+    Key Development Forecasts for Thailand from International Futures
+    2010 Thailand population census by Economic and Social statistics Bureau
+
+Travel
+
+    Thailand travel guide from Wikivoyage
+    Tourism Authority of Thailand – official tourism website
+
+Other
+
+    Thailand Country Fact Sheet from the Common Language Project[dead link]
+    Southeast Asia Visions. "Browse the Southeast Asia Visions Collection". Cornell University Library. Retrieved 2 October 2011.
+
+	 Myanmar 	 Myanmar  Laos 	 Laos 	
+ Myanmar 		 Laos
+ Cambodia
+	   Thailand   	
+Andaman Sea 	 Malaysia 	Gulf of Thailand
+[show]
+
+    v t e 
+
+Thailand articles
+[show]
+Links to related articles
+Authority control 	
+
+    WorldCat Identities VIAF: 236517938 LCCN: n79059683 GND: 4078228-1 NDL: 00572496 
+
+Categories:
+
+    ThailandKingdomsMember states of the Association of Southeast Asian NationsMember states of the United NationsSoutheast Asian countriesCountries in Asia
+
+Navigation menu
+
+    Not logged in
+    Talk
+    Contributions
+    Create account
+    Log in
+
+    Article
+    Talk
+
+    Read
+    View source
+    View history
+
+Search
+
+    Main page
+    Contents
+    Featured content
+    Current events
+    Random article
+    Donate to Wikipedia
+    Wikipedia store
+
+Interaction
+
+    Help
+    About Wikipedia
+    Community portal
+    Recent changes
+    Contact page
+
+Tools
+
+    What links here
+    Related changes
+    Upload file
+    Special pages
+    Permanent link
+    Page information
+    Wikidata item
+    Cite this page
+
+Print/export
+
+    Create a book
+    Download as PDF
+    Printable version
+
+In other projects
+
+    Wikimedia Commons
+    Wikinews
+    Wikiquote
+    Wikiversity
+    Wikivoyage
+
+Languages
+
+    Acèh
+    Адыгэбзэ
+    Адыгабзэ
+    Afrikaans
+    Alemannisch
+    አማርኛ
+    Ænglisc
+    العربية
+    Aragonés
+    Arpetan
+    অসমীয়া
+    Asturianu
+    Avañe'ẽ
+    Azərbaycanca
+    تۆرکجه
+    বাংলা
+    Bahasa Banjar
+    Bân-lâm-gú
+    Basa Banyumasan
+    Башҡортса
+    Беларуская
+    Беларуская (тарашкевіца)‎
+    भोजपुरी
+    Bikol Central
+    Bislama
+    Български
+    Boarisch
+    བོད་ཡིག
+    Bosanski
+    Brezhoneg
+    Буряад
+    Català
+    Чӑвашла
+    Cebuano
+    Čeština
+    Chi-Chewa
+    ChiShona
+    ChiTumbuka
+    Cymraeg
+    Dansk
+    Deutsch
+    ދިވެހިބަސް
+    Dolnoserbski
+    ཇོང་ཁ
+    Eesti
+    Ελληνικά
+    Español
+    Esperanto
+    Estremeñu
+    Euskara
+    Eʋegbe
+    فارسی
+    Fiji Hindi
+    Føroyskt
+    Français
+    Frysk
+    Fulfulde
+    Furlan
+    Gaeilge
+    Gaelg
+    Gagauz
+    Gàidhlig
+    Galego
+    贛語
+    Gĩkũyũ
+    ગુજરાતી
+    गोंयची कोंकणी / Gõychi Konknni
+    客家語/Hak-kâ-ngî
+    Хальмг
+    한국어
+    Hausa
+    Hawaiʻi
+    Հայերեն
+    हिन्दी
+    Hornjoserbsce
+    Hrvatski
+    Ido
+    Ilokano
+    বিষ্ণুপ্রিয়া মণিপুরী
+    Bahasa Indonesia
+    Interlingua
+    Interlingue
+    Iñupiak
+    Ирон
+    Íslenska
+    Italiano
+    עברית
+    Basa Jawa
+    Kalaallisut
+    ಕನ್ನಡ
+    Kapampangan
+    ქართული
+    Kaszëbsczi
+    Қазақша
+    Kernowek
+    Kinyarwanda
+    Kiswahili
+    Коми
+    Kongo
+    Kreyòl ayisyen
+    Kurdî
+    Кыргызча
+    Лезги
+    ລາວ
+    لۊری شومالی
+    Latina
+    Latviešu
+    Lëtzebuergesch
+    Lietuvių
+    Ligure
+    Limburgs
+    Lingála
+    Livvinkarjala
+    La .lojban.
+    Lumbaart
+    Magyar
+    मैथिली
+    Македонски
+    Malagasy
+    മലയാളം
+    मराठी
+    მარგალური
+    مصرى
+    مازِرونی
+    Bahasa Melayu
+    Baso Minangkabau
+    Mìng-dĕ̤ng-ngṳ̄
+    Mirandés
+    Монгол
+    မြန်မာဘာသာ
+    Nāhuatl
+    Dorerin Naoero
+    Nederlands
+    Nedersaksies
+    नेपाली
+    नेपाल भाषा
+    日本語
+    Нохчийн
+    Nordfriisk
+    Norfuk / Pitkern
+    Norsk bokmål
+    Norsk nynorsk
+    Novial
+    Occitan
+    Олык марий
+    ଓଡ଼ିଆ
+    Oromoo
+    Oʻzbekcha/ўзбекча
+    ਪੰਜਾਬੀ
+    پنجابی
+    Papiamentu
+    پښتو
+    Patois
+    ភាសាខ្មែរ
+    Picard
+    Piemontèis
+    Tok Pisin
+    Plattdüütsch
+    Polski
+    Português
+    Qaraqalpaqsha
+    Qırımtatarca
+    Română
+    Runa Simi
+    Русиньскый
+    Русский
+    Саха тыла
+    Sámegiella
+    Gagana Samoa
+    संस्कृतम्
+    Sängö
+    Scots
+    Seeltersk
+    Shqip
+    Sicilianu
+    සිංහල
+    Simple English
+    سنڌي
+    SiSwati
+    Slovenčina
+    Slovenščina
+    Ślůnski
+    Soomaaliga
+    کوردیی ناوەندی
+    Sranantongo
+    Српски / srpski
+    Srpskohrvatski / српскохрватски
+    Basa Sunda
+    Suomi
+    Svenska
+    Tagalog
+    தமிழ்
+    Tarandíne
+    Татарча/tatarça
+    తెలుగు
+    Tetun
+    ไทย
+    Тоҷикӣ
+    ᏣᎳᎩ
+    Türkçe
+    Türkmençe
+    Twi
+    Удмурт
+    ᨅᨔ ᨕᨘᨁᨗ
+    Українська
+    اردو
+    ئۇيغۇرچە / Uyghurche
+    Vahcuengh
+    Vèneto
+    Vepsän kel’
+    Tiếng Việt
+    Volapük
+    Võro
+    Walon
+    文言
+    West-Vlams
+    Winaray
+    Wolof
+    吴语
+    ייִדיש
+    Yorùbá
+    粵語
+    Zazaki
+    Zeêuws
+    Žemaitėška
+    中文
+    डोटेली
+
+Edit links
+
+    This page was last edited on 3 June 2017, at 01:37.	
+	
+Overview
+
+The File System (FS) shell includes various shell-like commands that directly interact with the Hadoop Distributed File System (HDFS) as well as other file systems that Hadoop supports, such as Local FS, WebHDFS, S3 FS, and others. The FS shell is invoked by:
+
+bin/hadoop fs <args>
+
+All FS shell commands take path URIs as arguments. The URI format is scheme://authority/path. For HDFS the scheme is hdfs, and for the Local FS the scheme is file. The scheme and authority are optional. If not specified, the default scheme specified in the configuration is used. An HDFS file or directory such as /parent/child can be specified as hdfs://namenodehost/parent/child or simply as /parent/child (given that your configuration is set to point to hdfs://namenodehost).
+
+Most of the commands in FS shell behave like corresponding Unix commands. Differences are described with each of the commands. Error information is sent to stderr and the output is sent to stdout.
+
+If HDFS is being used, hdfs dfs is a synonym.
+
+Relative paths can be used. For HDFS, the current working directory is the HDFS home directory /user/<username> that often has to be created manually. The HDFS home directory can also be implicitly accessed, e.g., when using the HDFS trash folder, the .Trash directory in the home directory.
+
+See the Commands Manual for generic shell options.
+appendToFile
+
+Usage: hadoop fs -appendToFile <localsrc> ... <dst>
+
+Append single src, or multiple srcs from local file system to the destination file system. Also reads input from stdin and appends to destination file system.
+
+    hadoop fs -appendToFile localfile /user/hadoop/hadoopfile
+    hadoop fs -appendToFile localfile1 localfile2 /user/hadoop/hadoopfile
+    hadoop fs -appendToFile localfile hdfs://nn.example.com/hadoop/hadoopfile
+    hadoop fs -appendToFile - hdfs://nn.example.com/hadoop/hadoopfile Reads the input from stdin.
+
+Exit Code:
+
+Returns 0 on success and 1 on error.
+cat
+
+Usage: hadoop fs -cat [-ignoreCrc] URI [URI ...]
+
+Copies source paths to stdout.
+
+Options
+
+    The -ignoreCrc option disables checkshum verification.
+
+Example:
+
+    hadoop fs -cat hdfs://nn1.example.com/file1 hdfs://nn2.example.com/file2
+    hadoop fs -cat file:///file3 /user/hadoop/file4
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+checksum
+
+Usage: hadoop fs -checksum URI
+
+Returns the checksum information of a file.
+
+Example:
+
+    hadoop fs -checksum hdfs://nn1.example.com/file1
+    hadoop fs -checksum file:///etc/hosts
+
+chgrp
+
+Usage: hadoop fs -chgrp [-R] GROUP URI [URI ...]
+
+Change group association of files. The user must be the owner of files, or else a super-user. Additional information is in the Permissions Guide.
+
+Options
+
+    The -R option will make the change recursively through the directory structure.
+
+chmod
+
+Usage: hadoop fs -chmod [-R] <MODE[,MODE]... | OCTALMODE> URI [URI ...]
+
+Change the permissions of files. With -R, make the change recursively through the directory structure. The user must be the owner of the file, or else a super-user. Additional information is in the Permissions Guide.
+
+Options
+
+    The -R option will make the change recursively through the directory structure.
+
+chown
+
+Usage: hadoop fs -chown [-R] [OWNER][:[GROUP]] URI [URI ]
+
+Change the owner of files. The user must be a super-user. Additional information is in the Permissions Guide.
+
+Options
+
+    The -R option will make the change recursively through the directory structure.
+
+copyFromLocal
+
+Usage: hadoop fs -copyFromLocal <localsrc> URI
+
+Similar to the fs -put command, except that the source is restricted to a local file reference.
+
+Options:
+
+    -p : Preserves access and modification times, ownership and the permissions. (assuming the permissions can be propagated across filesystems)
+    -f : Overwrites the destination if it already exists.
+    -l : Allow DataNode to lazily persist the file to disk, Forces a replication factor of 1. This flag will result in reduced durability. Use with care.
+    -d : Skip creation of temporary file with the suffix ._COPYING_.
+
+copyToLocal
+
+Usage: hadoop fs -copyToLocal [-ignorecrc] [-crc] URI <localdst>
+
+Similar to get command, except that the destination is restricted to a local file reference.
+count
+
+Usage: hadoop fs -count [-q] [-h] [-v] [-x] [-t [<storage type>]] [-u] <paths>
+
+Count the number of directories, files and bytes under the paths that match the specified file pattern. Get the quota and the usage. The output columns with -count are: DIR_COUNT, FILE_COUNT, CONTENT_SIZE, PATHNAME
+
+The -u and -q options control what columns the output contains. -q means show quotas, -u limits the output to show quotas and usage only.
+
+The output columns with -count -q are: QUOTA, REMAINING_QUOTA, SPACE_QUOTA, REMAINING_SPACE_QUOTA, DIR_COUNT, FILE_COUNT, CONTENT_SIZE, PATHNAME
+
+The output columns with -count -u are: QUOTA, REMAINING_QUOTA, SPACE_QUOTA, REMAINING_SPACE_QUOTA
+
+The -t option shows the quota and usage for each storage type. The -t option is ignored if -u or -q option is not given. The list of possible parameters that can be used in -t option(case insensitive except the parameter "“): ”“, ”all“, ”ram_disk“, ”ssd“, ”disk“ or ”archive".
+
+The -h option shows sizes in human readable format.
+
+The -v option displays a header line.
+
+The -x option excludes snapshots from the result calculation. Without the -x option (default), the result is always calculated from all INodes, including all snapshots under the given path. The -x option is ignored if -u or -q option is given.
+
+Example:
+
+    hadoop fs -count hdfs://nn1.example.com/file1 hdfs://nn2.example.com/file2
+    hadoop fs -count -q hdfs://nn1.example.com/file1
+    hadoop fs -count -q -h hdfs://nn1.example.com/file1
+    hadoop fs -count -q -h -v hdfs://nn1.example.com/file1
+    hadoop fs -count -u hdfs://nn1.example.com/file1
+    hadoop fs -count -u -h hdfs://nn1.example.com/file1
+    hadoop fs -count -u -h -v hdfs://nn1.example.com/file1
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+cp
+
+Usage: hadoop fs -cp [-f] [-p | -p[topax]] URI [URI ...] <dest>
+
+Copy files from source to destination. This command allows multiple sources as well in which case the destination must be a directory.
+
+‘raw.*’ namespace extended attributes are preserved if (1) the source and destination filesystems support them (HDFS only), and (2) all source and destination pathnames are in the /.reserved/raw hierarchy. Determination of whether raw.* namespace xattrs are preserved is independent of the -p (preserve) flag.
+
+Options:
+
+    The -f option will overwrite the destination if it already exists.
+    The -p option will preserve file attributes [topx] (timestamps, ownership, permission, ACL, XAttr). If -p is specified with no arg, then preserves timestamps, ownership, permission. If -pa is specified, then preserves permission also because ACL is a super-set of permission. Determination of whether raw namespace extended attributes are preserved is independent of the -p flag.
+
+Example:
+
+    hadoop fs -cp /user/hadoop/file1 /user/hadoop/file2
+    hadoop fs -cp /user/hadoop/file1 /user/hadoop/file2 /user/hadoop/dir
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+createSnapshot
+
+See HDFS Snapshots Guide.
+deleteSnapshot
+
+See HDFS Snapshots Guide.
+df
+
+Usage: hadoop fs -df [-h] URI [URI ...]
+
+Displays free space.
+
+Options:
+
+    The -h option will format file sizes in a “human-readable” fashion (e.g 64.0m instead of 67108864)
+
+Example:
+
+    hadoop dfs -df /user/hadoop/dir1
+
+du
+
+Usage: hadoop fs -du [-s] [-h] [-x] URI [URI ...]
+
+Displays sizes of files and directories contained in the given directory or the length of a file in case its just a file.
+
+Options:
+
+    The -s option will result in an aggregate summary of file lengths being displayed, rather than the individual files. Without the -s option, calculation is done by going 1-level deep from the given path.
+    The -h option will format file sizes in a “human-readable” fashion (e.g 64.0m instead of 67108864)
+    The -x option will exclude snapshots from the result calculation. Without the -x option (default), the result is always calculated from all INodes, including all snapshots under the given path.
+
+The du returns three columns with the following format:
+
+size disk_space_consumed_with_all_replicas full_path_name
+
+Example:
+
+    hadoop fs -du /user/hadoop/dir1 /user/hadoop/file1 hdfs://nn.example.com/user/hadoop/dir1
+
+Exit Code: Returns 0 on success and -1 on error.
+dus
+
+Usage: hadoop fs -dus <args>
+
+Displays a summary of file lengths.
+
+Note: This command is deprecated. Instead use hadoop fs -du -s.
+expunge
+
+Usage: hadoop fs -expunge
+
+Permanently delete files in checkpoints older than the retention threshold from trash directory, and create new checkpoint.
+
+When checkpoint is created, recently deleted files in trash are moved under the checkpoint. Files in checkpoints older than fs.trash.interval will be permanently deleted on the next invocation of -expunge command.
+
+If the file system supports the feature, users can configure to create and delete checkpoints periodically by the parameter stored as fs.trash.checkpoint.interval (in core-site.xml). This value should be smaller or equal to fs.trash.interval.
+
+Refer to the HDFS Architecture guide for more information about trash feature of HDFS.
+find
+
+Usage: hadoop fs -find <path> ... <expression> ...
+
+Finds all files that match the specified expression and applies selected actions to them. If no path is specified then defaults to the current working directory. If no expression is specified then defaults to -print.
+
+The following primary expressions are recognised:
+
+    -name pattern
+    -iname pattern
+
+    Evaluates as true if the basename of the file matches the pattern using standard file system globbing. If -iname is used then the match is case insensitive.
+
+    -print
+    -print0
+
+    Always evaluates to true. Causes the current pathname to be written to standard output. If the -print0 expression is used then an ASCII NULL character is appended.
+
+The following operators are recognised:
+
+    expression -a expression
+    expression -and expression
+    expression expression
+
+    Logical AND operator for joining two expressions. Returns true if both child expressions return true. Implied by the juxtaposition of two expressions and so does not need to be explicitly specified. The second expression will not be applied if the first fails.
+
+Example:
+
+hadoop fs -find / -name test -print
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+get
+
+Usage: hadoop fs -get [-ignorecrc] [-crc] [-p] [-f] <src> <localdst>
+
+Copy files to the local file system. Files that fail the CRC check may be copied with the -ignorecrc option. Files and CRCs may be copied using the -crc option.
+
+Example:
+
+    hadoop fs -get /user/hadoop/file localfile
+    hadoop fs -get hdfs://nn.example.com/user/hadoop/file localfile
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+
+Options:
+
+    -p : Preserves access and modification times, ownership and the permissions. (assuming the permissions can be propagated across filesystems)
+    -f : Overwrites the destination if it already exists.
+    -ignorecrc : Skip CRC checks on the file(s) downloaded.
+    -crc: write CRC checksums for the files downloaded.
+
+getfacl
+
+Usage: hadoop fs -getfacl [-R] <path>
+
+Displays the Access Control Lists (ACLs) of files and directories. If a directory has a default ACL, then getfacl also displays the default ACL.
+
+Options:
+
+    -R: List the ACLs of all files and directories recursively.
+    path: File or directory to list.
+
+Examples:
+
+    hadoop fs -getfacl /file
+    hadoop fs -getfacl -R /dir
+
+Exit Code:
+
+Returns 0 on success and non-zero on error.
+getfattr
+
+Usage: hadoop fs -getfattr [-R] -n name | -d [-e en] <path>
+
+Displays the extended attribute names and values (if any) for a file or directory.
+
+Options:
+
+    -R: Recursively list the attributes for all files and directories.
+    -n name: Dump the named extended attribute value.
+    -d: Dump all extended attribute values associated with pathname.
+    -e encoding: Encode values after retrieving them. Valid encodings are “text”, “hex”, and “base64”. Values encoded as text strings are enclosed in double quotes ("), and values encoded as hexadecimal and base64 are prefixed with 0x and 0s, respectively.
+    path: The file or directory.
+
+Examples:
+
+    hadoop fs -getfattr -d /file
+    hadoop fs -getfattr -R -n user.myAttr /dir
+
+Exit Code:
+
+Returns 0 on success and non-zero on error.
+getmerge
+
+Usage: hadoop fs -getmerge [-nl] <src> <localdst>
+
+Takes a source directory and a destination file as input and concatenates files in src into the destination local file. Optionally -nl can be set to enable adding a newline character (LF) at the end of each file. -skip-empty-file can be used to avoid unwanted newline characters in case of empty files.
+
+Examples:
+
+    hadoop fs -getmerge -nl /src /opt/output.txt
+    hadoop fs -getmerge -nl /src/file1.txt /src/file2.txt /output.txt
+
+Exit Code:
+
+Returns 0 on success and non-zero on error.
+help
+
+Usage: hadoop fs -help
+
+Return usage output.
+ls
+
+Usage: hadoop fs -ls [-C] [-d] [-h] [-q] [-R] [-t] [-S] [-r] [-u] <args>
+
+Options:
+
+    -C: Display the paths of files and directories only.
+    -d: Directories are listed as plain files.
+    -h: Format file sizes in a human-readable fashion (eg 64.0m instead of 67108864).
+    -q: Print ? instead of non-printable characters.
+    -R: Recursively list subdirectories encountered.
+    -t: Sort output by modification time (most recent first).
+    -S: Sort output by file size.
+    -r: Reverse the sort order.
+    -u: Use access time rather than modification time for display and sorting.
+
+For a file ls returns stat on the file with the following format:
+
+permissions number_of_replicas userid groupid filesize modification_date modification_time filename
+
+For a directory it returns list of its direct children as in Unix. A directory is listed as:
+
+permissions userid groupid modification_date modification_time dirname
+
+Files within a directory are order by filename by default.
+
+Example:
+
+    hadoop fs -ls /user/hadoop/file1
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+lsr
+
+Usage: hadoop fs -lsr <args>
+
+Recursive version of ls.
+
+Note: This command is deprecated. Instead use hadoop fs -ls -R
+mkdir
+
+Usage: hadoop fs -mkdir [-p] <paths>
+
+Takes path uri’s as argument and creates directories.
+
+Options:
+
+    The -p option behavior is much like Unix mkdir -p, creating parent directories along the path.
+
+Example:
+
+    hadoop fs -mkdir /user/hadoop/dir1 /user/hadoop/dir2
+    hadoop fs -mkdir hdfs://nn1.example.com/user/hadoop/dir hdfs://nn2.example.com/user/hadoop/dir
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+moveFromLocal
+
+Usage: hadoop fs -moveFromLocal <localsrc> <dst>
+
+Similar to put command, except that the source localsrc is deleted after it’s copied.
+moveToLocal
+
+Usage: hadoop fs -moveToLocal [-crc] <src> <dst>
+
+Displays a “Not implemented yet” message.
+mv
+
+Usage: hadoop fs -mv URI [URI ...] <dest>
+
+Moves files from source to destination. This command allows multiple sources as well in which case the destination needs to be a directory. Moving files across file systems is not permitted.
+
+Example:
+
+    hadoop fs -mv /user/hadoop/file1 /user/hadoop/file2
+    hadoop fs -mv hdfs://nn.example.com/file1 hdfs://nn.example.com/file2 hdfs://nn.example.com/file3 hdfs://nn.example.com/dir1
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+put
+
+Usage: hadoop fs -put [-f] [-p] [-l] [-d] [ - | <localsrc1> .. ]. <dst>
+
+Copy single src, or multiple srcs from local file system to the destination file system. Also reads input from stdin and writes to destination file system if the source is set to “-”
+
+Copying fails if the file already exists, unless the -f flag is given.
+
+Options:
+
+    -p : Preserves access and modification times, ownership and the permissions. (assuming the permissions can be propagated across filesystems)
+    -f : Overwrites the destination if it already exists.
+    -l : Allow DataNode to lazily persist the file to disk, Forces a replication factor of 1. This flag will result in reduced durability. Use with care.
+    -d : Skip creation of temporary file with the suffix ._COPYING_.
+
+Examples:
+
+    hadoop fs -put localfile /user/hadoop/hadoopfile
+    hadoop fs -put -f localfile1 localfile2 /user/hadoop/hadoopdir
+    hadoop fs -put -d localfile hdfs://nn.example.com/hadoop/hadoopfile
+    hadoop fs -put - hdfs://nn.example.com/hadoop/hadoopfile Reads the input from stdin.
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+renameSnapshot
+
+See HDFS Snapshots Guide.
+rm
+
+Usage: hadoop fs -rm [-f] [-r |-R] [-skipTrash] [-safely] URI [URI ...]
+
+Delete files specified as args.
+
+If trash is enabled, file system instead moves the deleted file to a trash directory (given by FileSystem#getTrashRoot).
+
+Currently, the trash feature is disabled by default. User can enable trash by setting a value greater than zero for parameter fs.trash.interval (in core-site.xml).
+
+See expunge about deletion of files in trash.
+
+Options:
+
+    The -f option will not display a diagnostic message or modify the exit status to reflect an error if the file does not exist.
+    The -R option deletes the directory and any content under it recursively.
+    The -r option is equivalent to -R.
+    The -skipTrash option will bypass trash, if enabled, and delete the specified file(s) immediately. This can be useful when it is necessary to delete files from an over-quota directory.
+    The -safely option will require safety confirmation before deleting directory with total number of files greater than hadoop.shell.delete.limit.num.files (in core-site.xml, default: 100). It can be used with -skipTrash to prevent accidental deletion of large directories. Delay is expected when walking over large directory recursively to count the number of files to be deleted before the confirmation.
+
+Example:
+
+    hadoop fs -rm hdfs://nn.example.com/file /user/hadoop/emptydir
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+rmdir
+
+Usage: hadoop fs -rmdir [--ignore-fail-on-non-empty] URI [URI ...]
+
+Delete a directory.
+
+Options:
+
+    --ignore-fail-on-non-empty: When using wildcards, do not fail if a directory still contains files.
+
+Example:
+
+    hadoop fs -rmdir /user/hadoop/emptydir
+
+rmr
+
+Usage: hadoop fs -rmr [-skipTrash] URI [URI ...]
+
+Recursive version of delete.
+
+Note: This command is deprecated. Instead use hadoop fs -rm -r
+setfacl
+
+Usage: hadoop fs -setfacl [-R] [-b |-k -m |-x <acl_spec> <path>] |[--set <acl_spec> <path>]
+
+Sets Access Control Lists (ACLs) of files and directories.
+
+Options:
+
+    -b: Remove all but the base ACL entries. The entries for user, group and others are retained for compatibility with permission bits.
+    -k: Remove the default ACL.
+    -R: Apply operations to all files and directories recursively.
+    -m: Modify ACL. New entries are added to the ACL, and existing entries are retained.
+    -x: Remove specified ACL entries. Other ACL entries are retained.
+    --set: Fully replace the ACL, discarding all existing entries. The acl_spec must include entries for user, group, and others for compatibility with permission bits.
+    acl_spec: Comma separated list of ACL entries.
+    path: File or directory to modify.
+
+Examples:
+
+    hadoop fs -setfacl -m user:hadoop:rw- /file
+    hadoop fs -setfacl -x user:hadoop /file
+    hadoop fs -setfacl -b /file
+    hadoop fs -setfacl -k /dir
+    hadoop fs -setfacl --set user::rw-,user:hadoop:rw-,group::r--,other::r-- /file
+    hadoop fs -setfacl -R -m user:hadoop:r-x /dir
+    hadoop fs -setfacl -m default:user:hadoop:r-x /dir
+
+Exit Code:
+
+Returns 0 on success and non-zero on error.
+setfattr
+
+Usage: hadoop fs -setfattr -n name [-v value] | -x name <path>
+
+Sets an extended attribute name and value for a file or directory.
+
+Options:
+
+    -b: Remove all but the base ACL entries. The entries for user, group and others are retained for compatibility with permission bits.
+    -n name: The extended attribute name.
+    -v value: The extended attribute value. There are three different encoding methods for the value. If the argument is enclosed in double quotes, then the value is the string inside the quotes. If the argument is prefixed with 0x or 0X, then it is taken as a hexadecimal number. If the argument begins with 0s or 0S, then it is taken as a base64 encoding.
+    -x name: Remove the extended attribute.
+    path: The file or directory.
+
+Examples:
+
+    hadoop fs -setfattr -n user.myAttr -v myValue /file
+    hadoop fs -setfattr -n user.noValue /file
+    hadoop fs -setfattr -x user.myAttr /file
+
+Exit Code:
+
+Returns 0 on success and non-zero on error.
+setrep
+
+Usage: hadoop fs -setrep [-R] [-w] <numReplicas> <path>
+
+Changes the replication factor of a file. If path is a directory then the command recursively changes the replication factor of all files under the directory tree rooted at path.
+
+Options:
+
+    The -w flag requests that the command wait for the replication to complete. This can potentially take a very long time.
+    The -R flag is accepted for backwards compatibility. It has no effect.
+
+Example:
+
+    hadoop fs -setrep -w 3 /user/hadoop/dir1
+
+Exit Code:
+
+Returns 0 on success and -1 on error.
+stat
+
+Usage: hadoop fs -stat [format] <path> ...
+
+Print statistics about the file/directory at <path> in the specified format. Format accepts permissions in octal (%a) and symbolic (%A), filesize in blocks (%b), type (%F), group name of owner (%g), name (%n), block size (%o), replication (%r), user name of owner(%u), and modification date (%y, %Y). %y shows UTC date as “yyyy-MM-dd HH:mm:ss” and %Y shows milliseconds since January 1, 1970 UTC. If the format is not specified, %y is used by default.
+
+Example:
+
+    hadoop fs -stat "%F %a %u:%g %b %y %n" /file
+
+Exit Code: Returns 0 on success and -1 on error.
+tail
+
+Usage: hadoop fs -tail [-f] URI
+
+Displays last kilobyte of the file to stdout.
+
+Options:
+
+    The -f option will output appended data as the file grows, as in Unix.
+
+Example:
+
+    hadoop fs -tail pathname
+
+Exit Code: Returns 0 on success and -1 on error.
+test
+
+Usage: hadoop fs -test -[defsz] URI
+
+Options:
+
+    -d: f the path is a directory, return 0.
+    -e: if the path exists, return 0.
+    -f: if the path is a file, return 0.
+    -s: if the path is not empty, return 0.
+    -r: if the path exists and read permission is granted, return 0.
+    -w: if the path exists and write permission is granted, return 0.
+    -z: if the file is zero length, return 0.
+
+Example:
+
+    hadoop fs -test -e filename
+
+text
+
+Usage: hadoop fs -text <src>
+
+Takes a source file and outputs the file in text format. The allowed formats are zip and TextRecordInputStream.
+touchz
+
+Usage: hadoop fs -touchz URI [URI ...]
+
+Create a file of zero length. An error is returned if the file exists with non-zero length.
+
+Example:
+
+    hadoop fs -touchz pathname
+
+Exit Code: Returns 0 on success and -1 on error.
+truncate
+
+Usage: hadoop fs -truncate [-w] <length> <paths>
+
+Truncate all files that match the specified file pattern to the specified length.
+
+Options:
+
+    The -w flag requests that the command waits for block recovery to complete, if necessary.
+    Without -w flag the file may remain unclosed for some time while the recovery is in progress.
+    During this time file cannot be reopened for append.
+
+Example:
+
+    hadoop fs -truncate 55 /user/hadoop/file1 /user/hadoop/file2
+    hadoop fs -truncate -w 127 hdfs://nn1.example.com/user/hadoop/file1
+
+usage
+
+Usage: hadoop fs -usage command
+
+Return the help for an individual command.
+Working with Object Storage
+
+The Hadoop FileSystem shell works with Object Stores such as Amazon S3, Azure WASB and OpenStack Swift.
+
+# Create a directory
+hadoop fs -mkdir s3a://bucket/datasets/
+
+# Upload a file from the cluster filesystem
+hadoop fs -put /datasets/example.orc s3a://bucket/datasets/
+
+# touch a file
+hadoop fs -touchz wasb://yourcontainer@youraccount.blob.core.windows.net/touched
+
+Unlike a normal filesystem, renaming files and directories in an object store usually takes time proportional to the size of the objects being manipulated. As many of the filesystem shell operations use renaming as the final stage in operations, skipping that stage can avoid long delays.
+
+In particular, the put and copyFromLocal commands should both have the -d options set for a direct upload.
+
+# Upload a file from the cluster filesystem
+hadoop fs -put -d /datasets/example.orc s3a://bucket/datasets/
+
+# Upload a file from under the user's home directory in the local filesystem.
+# Note it is the shell expanding the "~", not the hadoop fs command
+hadoop fs -copyFromLocal -d -f ~/datasets/devices.orc s3a://bucket/datasets/
+
+# create a file from stdin
+# the special "-" source means "use stdin"
+echo "hello" | hadoop fs -put -d -f - wasb://yourcontainer@youraccount.blob.core.windows.net/hello.txt
+
+Objects can be downloaded and viewed:
+
+# copy a directory to the local filesystem
+hadoop fs -copyToLocal s3a://bucket/datasets/
+
+# copy a file from the object store to the cluster filesystem.
+hadoop fs -get wasb://yourcontainer@youraccount.blob.core.windows.net/hello.txt /examples
+
+# print the object
+hadoop fs -cat wasb://yourcontainer@youraccount.blob.core.windows.net/hello.txt
+
+# print the object, unzipping it if necessary
+hadoop fs -text wasb://yourcontainer@youraccount.blob.core.windows.net/hello.txt
+
+## download log files into a local file
+hadoop fs -getmerge wasb://yourcontainer@youraccount.blob.core.windows.net/logs\* log.txt
+
+Commands which list many files tend to be significantly slower than when working with HDFS or other filesystems
+
+hadoop fs -count s3a://bucket/
+hadoop fs -du s3a://bucket/
+
+Other slow commands include find, mv, cp and rm.
+
+Find
+
+This can be very slow on a large store with many directories under the path supplied.
+
+# enumerate all files in the object store's container.
+hadoop fs -find s3a://bucket/ -print
+
+# remember to escape the wildcards to stop the shell trying to expand them first
+hadoop fs -find s3a://bucket/datasets/ -name \*.txt -print
+
+Rename
+
+The time to rename a file depends on its size.
+
+The time to rename a directory depends on the number and size of all files beneath that directory.
+
+hadoop fs -mv s3a://bucket/datasets s3a://bucket/historical
+
+If the operation is interrupted, the object store will be in an undefined state.
+
+Copy
+
+hadoop fs -cp s3a://bucket/datasets s3a://bucket/historical
+
+The copy operation reads each file and then writes it back to the object store; the time to complete depends on the amount of data to copy, and the bandwidth in both directions between the local computer and the object store.
+
+The further the computer is from the object store, the longer the copy takes
+Deleting objects
+
+The rm command will delete objects and directories full of objects. If the object store is eventually consistent, fs ls commands and other accessors may briefly return the details of the now-deleted objects; this is an artifact of object stores which cannot be avoided.
+
+If the filesystem client is configured to copy files to a trash directory, this will be in the bucket; the rm operation will then take time proportional to the size of the data. Furthermore, the deleted files will continue to incur storage costs.
+
+To avoid this, use the the -skipTrash option.
+
+hadoop fs -rm -skipTrash s3a://bucket/dataset
+
+Data moved to the .Trash directory can be purged using the expunge command. As this command only works with the default filesystem, it must be configured to make the default filesystem the target object store.
+
+hadoop fs -expunge -D fs.defaultFS=s3a://bucket/
+
+Overwriting Objects
+
+If an object store is eventually consistent, then any operation which overwrites existing objects may not be immediately visible to all clients/queries. That is: later operations which query the same object’s status or contents may get the previous object. This can sometimes surface within the same client, while reading a single object.
+
+Avoid having a sequence of commands which overwrite objects and then immediately work on the updated data; there is a risk that the previous data will be used instead.
+Timestamps
+
+Timestamps of objects and directories in Object Stores may not follow the behavior of files and directories in HDFS.
+
+    The creation and initial modification times of an object will be the time it was created on the object store; this will be at the end of the write process, not the beginning.
+    The timestamp will be taken from the object store infrastructure’s clock, not that of the client.
+    If an object is overwritten, the modification time will be updated.
+    Directories may or may not have valid timestamps. They are unlikely to have their modification times updated when an object underneath is updated.
+    The atime access time feature is not supported by any of the object stores found in the Apache Hadoop codebase.
+
+Consult the DistCp documentation for details on how this may affect the distcp -update operation.
+Security model and operations
+
+The security and permissions models of object stores are usually very different from those of a Unix-style filesystem; operations which query or manipulate permissions are generally unsupported.
+
+Operations to which this applies include: chgrp, chmod, chown, getfacl, and setfacl. The related attribute commands getfattr andsetfattr are also usually unavailable.
+
+    Filesystem commands which list permission and user/group details, usually simulate these details.
+
+    Operations which try to preserve permissions (example fs -put -p) do not preserve permissions for this reason. (Special case: wasb://, which preserves permissions but does not enforce them).
+
+When interacting with read-only object stores, the permissions found in “list” and “stat” commands may indicate that the user has write access, when in fact they do not.
+
+Object stores usually have permissions models of their own, models can be manipulated through store-specific tooling. Be aware that some of the permissions which an object store may provide (such as write-only paths, or different permissions on the root path) may be incompatible with the Hadoop filesystem clients. These tend to require full read and write access to the entire object store bucket/container into which they write data.
+
+As an example of how permissions are mocked, here is a listing of Amazon’s public, read-only bucket of Landsat images:
+
+$ hadoop fs -ls s3a://landsat-pds/
+Found 10 items
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/L8
+-rw-rw-rw-   1 mapred      23764 2015-01-28 18:13 s3a://landsat-pds/index.html
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/landsat-pds_stats
+-rw-rw-rw-   1 mapred        105 2016-08-19 18:12 s3a://landsat-pds/robots.txt
+-rw-rw-rw-   1 mapred         38 2016-09-26 12:16 s3a://landsat-pds/run_info.json
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/runs
+-rw-rw-rw-   1 mapred   27458808 2016-09-26 12:16 s3a://landsat-pds/scene_list.gz
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/tarq
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/tarq_corrupt
+drwxrwxrwx   - mapred          0 2016-09-26 12:16 s3a://landsat-pds/test
+
+    All files are listed as having full read/write permissions.
+    All directories appear to have full rwx permissions.
+    The replication count of all files is “1”.
+    The owner of all files and directories is declared to be the current user (mapred).
+    The timestamp of all directories is actually that of the time the -ls operation was executed. This is because these directories are not actual objects in the store; they are simulated directories based on the existence of objects under their paths.
+
+When an attempt is made to delete one of the files, the operation fails —despite the permissions shown by the ls command:
+
+$ hadoop fs -rm s3a://landsat-pds/scene_list.gz
+rm: s3a://landsat-pds/scene_list.gz: delete on s3a://landsat-pds/scene_list.gz:
+  com.amazonaws.services.s3.model.AmazonS3Exception: Access Denied (Service: Amazon S3;
+  Status Code: 403; Error Code: AccessDenied; Request ID: 1EF98D5957BCAB3D),
+  S3 Extended Request ID: wi3veOXFuFqWBUCJgV3Z+NQVj9gWgZVdXlPU4KBbYMsw/gA+hyhRXcaQ+PogOsDgHh31HlTCebQ=
+
+This demonstrates that the listed permissions cannot be taken as evidence of write access; only object manipulation can determine this.
+
+Note that the Microsoft Azure WASB filesystem does allow permissions to be set and checked, however the permissions are not actually enforced. This feature offers the ability for a HDFS directory tree to be backed up with DistCp, with its permissions preserved, permissions which may be restored when copying the directory back into HDFS. For securing access to the data in the object store, however, Azure’s own model and tools must be used.
+Commands of limited value
+
+Here is the list of shell commands which generally have no effect —and may actually fail.
+command 	limitations
+appendToFile 	generally unsupported
+checksum 	the usual checksum is “NONE”
+chgrp 	generally unsupported permissions model; no-op
+chmod 	generally unsupported permissions model; no-op
+chown 	generally unsupported permissions model; no-op
+createSnapshot 	generally unsupported
+deleteSnapshot 	generally unsupported
+df 	default values are normally displayed
+getfacl 	may or may not be supported
+getfattr 	generally supported
+renameSnapshot 	generally unsupported
+setfacl 	generally unsupported permissions model
+setfattr 	generally unsupported permissions model
+setrep 	has no effect
+truncate 	generally unsupported
+
+Different object store clients may support these commands: do consult the documentation and test against the target store.
